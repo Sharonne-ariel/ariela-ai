@@ -1,0 +1,450 @@
+{
+  "category": "Pregnancy",
+  "category_id": "C4",
+  "language": "en",
+  "total_questions": 50,
+  "target_questions": 50,
+  "sources_used": ["Mayo Clinic", "ACOG", "Cleveland Clinic", "NHS", "WHO", "NIH", "March of Dimes", "Planned Parenthood"],
+  "entries": [
+    {
+      "id": "C4.1-001",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "What are the earliest signs of pregnancy?",
+      "answer": "The earliest signs typically appear 1-2 weeks after conception: missed period, breast tenderness, mild cramping, fatigue, nausea (sometimes with vomiting), frequent urination, food aversions or cravings, and increased sense of smell. Some women feel pregnant before a positive test; others have no symptoms at all early on.",
+      "source": "Mayo Clinic",
+      "tags": ["early signs", "symptoms", "pregnancy", "first weeks"]
+    },
+    {
+      "id": "C4.1-002",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "When can I take a pregnancy test?",
+      "answer": "Most home pregnancy tests are accurate from the first day of a missed period. Some 'early detection' tests can detect pregnancy 4-5 days before. For most reliable results, test with first morning urine when hCG levels are highest. A blood test at the doctor can detect pregnancy 7-10 days after conception.",
+      "source": "ACOG",
+      "tags": ["pregnancy test", "timing", "hCG", "accuracy"]
+    },
+    {
+      "id": "C4.1-003",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "How accurate are home pregnancy tests?",
+      "answer": "Home pregnancy tests are 97-99% accurate when used correctly, after a missed period. They detect hCG (human chorionic gonadotropin) hormone in urine. False negatives can happen if testing too early or with diluted urine. False positives are rare. Confirm a positive result with your doctor.",
+      "source": "Cleveland Clinic",
+      "tags": ["test accuracy", "hCG", "false negative", "false positive"]
+    },
+    {
+      "id": "C4.1-004",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "What is implantation bleeding?",
+      "answer": "Implantation bleeding is light spotting that happens 6-12 days after conception, when the fertilized egg attaches to the uterine lining. It's usually pink or brown, lasts a few hours to 2 days, and is much lighter than a period. About 25% of women experience it. Many mistake it for an early period.",
+      "source": "Mayo Clinic",
+      "tags": ["implantation bleeding", "spotting", "early pregnancy", "confusion"]
+    },
+    {
+      "id": "C4.1-005",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "Can I be pregnant and still have a period?",
+      "answer": "Not a true period — once pregnant, your body stops menstruating. However, light bleeding in early pregnancy can happen (implantation, hormonal changes, irritation). Heavier bleeding may signal a problem (miscarriage, ectopic pregnancy). Any bleeding during pregnancy should be reported to a doctor.",
+      "source": "ACOG",
+      "tags": ["bleeding in pregnancy", "false period", "warning", "doctor"]
+    },
+    {
+      "id": "C4.1-006",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "How is pregnancy dated?",
+      "answer": "Pregnancy is dated from the first day of your last menstrual period (LMP), not from conception. A full-term pregnancy is 40 weeks from LMP, even though actual fetal development is about 38 weeks. This means you're technically 'pregnant' 2 weeks before conception in dating terms.",
+      "source": "Cleveland Clinic",
+      "tags": ["pregnancy dating", "LMP", "40 weeks", "due date"]
+    },
+    {
+      "id": "C4.1-007",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "How is my due date calculated?",
+      "answer": "Due date is estimated by adding 280 days (40 weeks) to the first day of your last period. Naegele's rule: subtract 3 months from LMP, add 7 days. Ultrasounds in the first trimester can adjust due date for more accuracy. Only about 5% of babies are born exactly on the due date.",
+      "source": "ACOG",
+      "tags": ["due date", "calculation", "Naegele", "estimation"]
+    },
+    {
+      "id": "C4.1-008",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "When should I make my first prenatal appointment?",
+      "answer": "Schedule your first prenatal visit as soon as you confirm pregnancy, typically between 6-10 weeks. This first visit is comprehensive: medical history, physical exam, blood work, first ultrasound, due date confirmation, and discussions about prenatal care. Don't delay if you have any concerning symptoms.",
+      "source": "Mayo Clinic",
+      "tags": ["first prenatal visit", "appointment", "first trimester", "care"]
+    },
+    {
+      "id": "C4.1-009",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "What is an ectopic pregnancy?",
+      "answer": "An ectopic pregnancy is when the fertilized egg implants outside the uterus, usually in a fallopian tube. It can't develop normally and is a medical emergency. Symptoms include severe abdominal pain (often one-sided), shoulder pain, dizziness, and abnormal bleeding. It requires immediate medical attention.",
+      "source": "ACOG",
+      "tags": ["ectopic pregnancy", "emergency", "fallopian tube", "warning"]
+    },
+    {
+      "id": "C4.1-010",
+      "subcategory": "Early Signs & Confirmation",
+      "question": "When should I tell people I'm pregnant?",
+      "answer": "Timing is personal. Many wait until after the first trimester (week 12-13) when miscarriage risk significantly drops. Others tell close family/friends earlier for support. Tell your employer when needed for workplace accommodations. There's no 'right' time — choose what feels right for you and your situation.",
+      "source": "Cleveland Clinic",
+      "tags": ["announcing", "timing", "first trimester", "personal choice"]
+    },
+    {
+      "id": "C4.2-001",
+      "subcategory": "First Trimester",
+      "question": "What happens during the first trimester (weeks 1-13)?",
+      "answer": "The first trimester is foundational: the embryo develops major organs, brain, spinal cord, and heart. You may experience nausea, fatigue, breast tenderness, frequent urination, and mood swings. By week 12, the baby is about 5 cm long. Miscarriage risk is highest in this trimester (10-20% of pregnancies).",
+      "source": "Mayo Clinic",
+      "tags": ["first trimester", "development", "symptoms", "miscarriage risk"]
+    },
+    {
+      "id": "C4.2-002",
+      "subcategory": "First Trimester",
+      "question": "How can I manage morning sickness?",
+      "answer": "Eat small, frequent meals; avoid empty stomach; choose bland foods (crackers, toast); try ginger or vitamin B6; stay hydrated with small sips; avoid strong smells; eat before getting out of bed. If you can't keep any food/water down, lose weight, or vomit blood, see a doctor — it could be hyperemesis gravidarum.",
+      "source": "ACOG",
+      "tags": ["morning sickness", "nausea", "remedies", "hyperemesis"]
+    },
+    {
+      "id": "C4.2-003",
+      "subcategory": "First Trimester",
+      "question": "Why am I so tired in the first trimester?",
+      "answer": "Extreme fatigue is one of the most common first-trimester symptoms. Your body is building the placenta, hormone levels (especially progesterone) are surging, blood volume increases, and metabolism speeds up. Rest when possible, take naps, and don't push yourself. Energy usually returns in the second trimester.",
+      "source": "Cleveland Clinic",
+      "tags": ["fatigue", "first trimester", "progesterone", "rest"]
+    },
+    {
+      "id": "C4.2-004",
+      "subcategory": "First Trimester",
+      "question": "What can I do for breast changes in early pregnancy?",
+      "answer": "Breasts become tender, swollen, and may darken around the nipples due to hormonal changes. Wear a supportive bra (consider a pregnancy/sleep bra), use cool compresses for soreness, avoid underwire if uncomfortable. These changes prepare your body for breastfeeding and usually ease by the second trimester.",
+      "source": "Mayo Clinic",
+      "tags": ["breast changes", "tenderness", "bra", "early pregnancy"]
+    },
+    {
+      "id": "C4.2-005",
+      "subcategory": "Second Trimester",
+      "question": "What happens during the second trimester (weeks 14-27)?",
+      "answer": "Often called the 'easy' trimester. Nausea usually fades, energy returns, and the bump becomes visible. The baby grows rapidly: develops fingerprints, hair, and senses. Around 18-22 weeks, you may feel first kicks ('quickening'). Anatomy ultrasound (around week 20) checks development and can reveal sex.",
+      "source": "ACOG",
+      "tags": ["second trimester", "development", "kicks", "anatomy scan"]
+    },
+    {
+      "id": "C4.2-006",
+      "subcategory": "Second Trimester",
+      "question": "When will I feel my baby kick?",
+      "answer": "First baby movements (called 'quickening') are usually felt between 16-22 weeks. First-time moms often feel them later (around 20-22 weeks), while those with previous pregnancies recognize them earlier. Early kicks feel like flutters, butterflies, or gas. By third trimester, movements are unmistakable.",
+      "source": "Cleveland Clinic",
+      "tags": ["quickening", "baby kicks", "movement", "second trimester"]
+    },
+    {
+      "id": "C4.2-007",
+      "subcategory": "Second Trimester",
+      "question": "What is the anatomy scan and when is it done?",
+      "answer": "The anatomy scan (or 'level 2 ultrasound') is a detailed ultrasound done around 18-22 weeks. It checks baby's organs, growth, position, placenta location, and amniotic fluid. It can often reveal baby's sex if you want to know. This is one of the most exciting prenatal appointments for many parents.",
+      "source": "ACOG",
+      "tags": ["anatomy scan", "ultrasound", "20 weeks", "development check"]
+    },
+    {
+      "id": "C4.2-008",
+      "subcategory": "Second Trimester",
+      "question": "Is it normal to have back pain during pregnancy?",
+      "answer": "Yes, back pain affects 50-70% of pregnant women, especially in the second and third trimesters. Causes include weight gain, postural changes, hormonal loosening of ligaments, and stress on muscles. Good posture, supportive shoes, prenatal yoga, warm baths, and pillows for sleeping can help.",
+      "source": "Mayo Clinic",
+      "tags": ["back pain", "ligaments", "posture", "second trimester"]
+    },
+    {
+      "id": "C4.2-009",
+      "subcategory": "Third Trimester",
+      "question": "What happens during the third trimester (weeks 28-40)?",
+      "answer": "The baby grows rapidly, gaining weight and developing organs. You may feel heavier, more tired, with back pain, swelling, and Braxton Hicks contractions. The baby positions head-down for birth. Prenatal visits become more frequent. Around week 36, the baby is considered 'early term' and could come anytime.",
+      "source": "ACOG",
+      "tags": ["third trimester", "preparation", "growth", "term"]
+    },
+    {
+      "id": "C4.2-010",
+      "subcategory": "Third Trimester",
+      "question": "What are Braxton Hicks contractions?",
+      "answer": "Braxton Hicks are 'practice' contractions that prepare your uterus for labor. They feel like a tightening or hardening of the belly, are irregular, painless or mildly uncomfortable, and don't get stronger over time. They become more noticeable in the third trimester. Real labor contractions become regular and increasingly intense.",
+      "source": "Mayo Clinic",
+      "tags": ["Braxton Hicks", "false labor", "contractions", "third trimester"]
+    },
+    {
+      "id": "C4.2-011",
+      "subcategory": "Third Trimester",
+      "question": "How do I prepare my hospital bag?",
+      "answer": "Pack by 36 weeks. Include: comfortable clothes, toiletries, phone charger, documents (insurance, ID), nursing bras and pads, snacks, going-home outfit for baby and you, baby car seat, blanket, diapers/wipes. Each hospital provides essentials, but having your own comfort items helps. Check your hospital's specific list.",
+      "source": "Cleveland Clinic",
+      "tags": ["hospital bag", "preparation", "checklist", "delivery"]
+    },
+    {
+      "id": "C4.2-012",
+      "subcategory": "Third Trimester",
+      "question": "How will I know I'm in labor?",
+      "answer": "Signs of labor include: regular contractions that get closer, stronger, and longer (every 5 min, lasting 1 min, for 1 hour = '5-1-1 rule'); water breaking (clear fluid leak or gush); bloody show (mucus plug); lower back pain. Mild irregular contractions can happen weeks before. Call your provider when contractions are regular.",
+      "source": "ACOG",
+      "tags": ["labor signs", "contractions", "water breaking", "511 rule"]
+    },
+    {
+      "id": "C4.2-013",
+      "subcategory": "Third Trimester",
+      "question": "What is the mucus plug and when does it come out?",
+      "answer": "The mucus plug seals the cervix during pregnancy. It can come out days to weeks before labor — appearing as thick, jelly-like discharge, possibly tinged with pink, brown, or red blood ('bloody show'). Losing the mucus plug doesn't mean labor is imminent, but it's a sign your body is preparing.",
+      "source": "Cleveland Clinic",
+      "tags": ["mucus plug", "bloody show", "labor signs", "cervix"]
+    },
+    {
+      "id": "C4.2-014",
+      "subcategory": "Postpartum",
+      "question": "What is the postpartum period?",
+      "answer": "The postpartum period (or 'fourth trimester') is the first 6 weeks after birth, though physical and emotional recovery continue much longer. Your body heals from delivery, hormones shift dramatically, breastfeeding begins, and you adjust to caring for a newborn. It's a profound transition deserving rest, support, and patience.",
+      "source": "ACOG",
+      "tags": ["postpartum", "fourth trimester", "recovery", "newborn"]
+    },
+    {
+      "id": "C4.2-015",
+      "subcategory": "Postpartum",
+      "question": "How long does postpartum bleeding last?",
+      "answer": "Postpartum bleeding (lochia) typically lasts 4-6 weeks. It starts heavy and bright red, gradually becoming lighter and pinkish/brownish, then yellowish-white. Use pads (not tampons) and rest. Heavy bleeding, large clots, foul smell, or fever require immediate medical attention.",
+      "source": "Cleveland Clinic",
+      "tags": ["lochia", "postpartum bleeding", "recovery", "warning signs"]
+    },
+    {
+      "id": "C4.2-016",
+      "subcategory": "Postpartum",
+      "question": "When will my period come back after birth?",
+      "answer": "If not breastfeeding, periods usually return within 6-8 weeks postpartum. With exclusive breastfeeding, periods may pause for several months to over a year (Lactational Amenorrhea). However, ovulation can occur before your first postpartum period, so contraception is needed if you want to avoid pregnancy.",
+      "source": "WHO",
+      "tags": ["postpartum periods", "breastfeeding", "LAM", "contraception"]
+    },
+    {
+      "id": "C4.2-017",
+      "subcategory": "Postpartum",
+      "question": "What is the postpartum checkup?",
+      "answer": "The postpartum visit (around 6 weeks after birth) checks physical recovery, mental health, breastfeeding, contraception, and emotional well-being. Recent guidelines recommend earlier check-ins too. Don't skip this visit — it's important even if you feel fine, especially to discuss any pain, mood changes, or breastfeeding issues.",
+      "source": "ACOG",
+      "tags": ["postpartum checkup", "6 weeks", "recovery", "mental health"]
+    },
+    {
+      "id": "C4.2-018",
+      "subcategory": "Postpartum",
+      "question": "What is postpartum depression?",
+      "answer": "Postpartum depression (PPD) is more severe and lasting than 'baby blues.' It affects 1 in 7 mothers and includes deep sadness, anxiety, hopelessness, withdrawal, difficulty bonding, sleep issues, or thoughts of harm. It's not your fault — it's a medical condition that responds well to treatment (therapy, medication, support).",
+      "source": "WHO",
+      "tags": ["postpartum depression", "PPD", "mental health", "treatment"]
+    },
+    {
+      "id": "C4.2-019",
+      "subcategory": "Postpartum",
+      "question": "When can I exercise again after giving birth?",
+      "answer": "Light walking can start within days of vaginal birth. Wait for your 6-week postpartum checkup before resuming moderate-to-vigorous exercise. With C-section, recovery is longer (8+ weeks). Start gently with pelvic floor exercises and gradually rebuild. Listen to your body — bleeding or pain means slow down.",
+      "source": "ACOG",
+      "tags": ["postpartum exercise", "recovery", "C-section", "pelvic floor"]
+    },
+    {
+      "id": "C4.2-020",
+      "subcategory": "Postpartum",
+      "question": "How long should I wait before getting pregnant again?",
+      "answer": "WHO recommends waiting at least 18-24 months between pregnancies for optimal maternal and infant health. Shorter intervals (under 18 months) are associated with higher risks of premature birth, low birth weight, and maternal health complications. Use reliable contraception if you want to space pregnancies.",
+      "source": "WHO",
+      "tags": ["pregnancy spacing", "interpregnancy interval", "contraception", "health"]
+    },
+    {
+      "id": "C4.3-001",
+      "subcategory": "Symptoms & Changes",
+      "question": "What weight gain is normal during pregnancy?",
+      "answer": "Recommended weight gain depends on pre-pregnancy BMI: underweight (BMI <18.5): 28-40 lbs; normal weight (18.5-24.9): 25-35 lbs; overweight (25-29.9): 15-25 lbs; obese (≥30): 11-20 lbs. Gain is gradual: 2-4 lbs in first trimester, then about 1 lb/week. Your provider monitors weight gain throughout pregnancy.",
+      "source": "ACOG",
+      "tags": ["weight gain", "BMI", "pregnancy weight", "guidelines"]
+    },
+    {
+      "id": "C4.3-002",
+      "subcategory": "Symptoms & Changes",
+      "question": "What is heartburn during pregnancy?",
+      "answer": "Heartburn affects up to 80% of pregnant women, especially in the third trimester. It's caused by hormones relaxing the esophageal sphincter and the growing uterus pressing on the stomach. Eat smaller meals, avoid trigger foods (spicy, acidic, fatty), don't lie down right after eating, and elevate your head when sleeping.",
+      "source": "Mayo Clinic",
+      "tags": ["heartburn", "GERD", "third trimester", "remedies"]
+    },
+    {
+      "id": "C4.3-003",
+      "subcategory": "Symptoms & Changes",
+      "question": "Why am I peeing so often?",
+      "answer": "Frequent urination is common throughout pregnancy. Early on, hormones increase blood flow to kidneys; later, the growing uterus presses on the bladder. Drink plenty of water (but reduce before bedtime), do pelvic floor exercises, and don't hold urine. Burning, urgency, or pain may indicate a UTI — see your doctor.",
+      "source": "Cleveland Clinic",
+      "tags": ["frequent urination", "bladder", "UTI", "pelvic floor"]
+    },
+    {
+      "id": "C4.3-004",
+      "subcategory": "Symptoms & Changes",
+      "question": "Is swelling normal during pregnancy?",
+      "answer": "Mild swelling (edema) in hands, feet, and ankles is common, especially in the third trimester, due to increased blood volume and fluid retention. Elevate legs, stay hydrated, avoid long standing, wear comfortable shoes. Sudden severe swelling, especially in face/hands, may indicate preeclampsia — contact your provider.",
+      "source": "ACOG",
+      "tags": ["swelling", "edema", "preeclampsia", "third trimester"]
+    },
+    {
+      "id": "C4.3-005",
+      "subcategory": "Symptoms & Changes",
+      "question": "Why do I have so many cravings?",
+      "answer": "Cravings are very common (50-90% of pregnant women) and may be linked to hormonal changes, nutritional needs, or emotional factors. Most cravings are harmless if part of a balanced diet. Pica (craving non-food items like ice, dirt, clay) needs medical attention as it may signal iron deficiency.",
+      "source": "Mayo Clinic",
+      "tags": ["cravings", "pica", "nutrition", "iron deficiency"]
+    },
+    {
+      "id": "C4.3-006",
+      "subcategory": "Symptoms & Changes",
+      "question": "Why am I constipated during pregnancy?",
+      "answer": "Constipation affects up to 50% of pregnant women. Hormones slow digestion, and iron supplements often worsen it. Drink plenty of water, eat fiber-rich foods (fruits, vegetables, whole grains), exercise regularly, and ask your doctor about safe stool softeners. Don't strain — it can cause hemorrhoids.",
+      "source": "Cleveland Clinic",
+      "tags": ["constipation", "fiber", "hemorrhoids", "iron supplements"]
+    },
+    {
+      "id": "C4.3-007",
+      "subcategory": "Symptoms & Changes",
+      "question": "What is gestational diabetes?",
+      "answer": "Gestational diabetes is high blood sugar that develops during pregnancy, affecting 2-10% of pregnancies. It's usually diagnosed via glucose screening between 24-28 weeks. Management includes diet, exercise, blood sugar monitoring, and sometimes medication. Most cases resolve after delivery, but it increases future diabetes risk.",
+      "source": "ACOG",
+      "tags": ["gestational diabetes", "glucose", "screening", "management"]
+    },
+    {
+      "id": "C4.3-008",
+      "subcategory": "Symptoms & Changes",
+      "question": "What is preeclampsia?",
+      "answer": "Preeclampsia is a serious condition involving high blood pressure and signs of organ damage (often kidneys), usually after week 20. Symptoms include severe headaches, vision changes, sudden swelling, upper abdominal pain, and protein in urine. It requires urgent medical care. Untreated, it can be dangerous for mother and baby.",
+      "source": "WHO",
+      "tags": ["preeclampsia", "high blood pressure", "complication", "emergency"]
+    },
+    {
+      "id": "C4.3-009",
+      "subcategory": "Symptoms & Changes",
+      "question": "Can I dye my hair during pregnancy?",
+      "answer": "Most research suggests occasional hair dyeing is safe during pregnancy, especially after the first trimester. Choose ammonia-free or natural dyes, ensure good ventilation, don't leave on longer than needed, and avoid scalp contact when possible. Highlights (which don't touch the scalp) are an even safer option.",
+      "source": "NHS",
+      "tags": ["hair dye", "safety", "pregnancy precautions", "cosmetics"]
+    },
+    {
+      "id": "C4.3-010",
+      "subcategory": "Symptoms & Changes",
+      "question": "Is it safe to fly during pregnancy?",
+      "answer": "Flying is generally safe up to 36 weeks for single pregnancies, 32 weeks for multiples. Some airlines require medical clearance after 28 weeks. Walk around hourly to prevent blood clots, wear compression socks, stay hydrated, and choose an aisle seat. Avoid flying if you have pregnancy complications.",
+      "source": "ACOG",
+      "tags": ["flying", "travel", "blood clots", "pregnancy"]
+    },
+    {
+      "id": "C4.3-011",
+      "subcategory": "Symptoms & Changes",
+      "question": "Can I have caffeine while pregnant?",
+      "answer": "Yes, but limit caffeine to under 200mg/day (about 1 small coffee). High caffeine intake is associated with low birth weight and miscarriage risk. Remember caffeine is in tea, chocolate, sodas, and some medications. Decaf coffee and herbal teas (some, not all) are safer alternatives.",
+      "source": "ACOG",
+      "tags": ["caffeine", "coffee", "limits", "pregnancy"]
+    },
+    {
+      "id": "C4.3-012",
+      "subcategory": "Symptoms & Changes",
+      "question": "What are stretch marks and can I prevent them?",
+      "answer": "Stretch marks (striae) appear when skin stretches rapidly during pregnancy, affecting 50-90% of women. They start red/purple and fade to silver over time. Genetics play a big role — no cream truly prevents them. Keeping skin hydrated, gaining weight gradually, and good nutrition may help minimize them.",
+      "source": "Mayo Clinic",
+      "tags": ["stretch marks", "striae", "skin changes", "genetics"]
+    },
+    {
+      "id": "C4.3-013",
+      "subcategory": "Symptoms & Changes",
+      "question": "Why am I experiencing pregnancy brain or forgetfulness?",
+      "answer": "Many women experience 'pregnancy brain' — forgetfulness or fogginess, especially in third trimester. Hormonal changes, poor sleep, stress, and brain volume shifts may contribute. It's usually mild and resolves postpartum. Use lists, calendars, and reminders. Don't be hard on yourself — your body is doing massive work.",
+      "source": "Cleveland Clinic",
+      "tags": ["pregnancy brain", "forgetfulness", "cognitive", "hormones"]
+    },
+    {
+      "id": "C4.3-014",
+      "subcategory": "Symptoms & Changes",
+      "question": "Can I have sex during pregnancy?",
+      "answer": "Yes, sex is generally safe throughout pregnancy unless your provider advises against it (placenta previa, preterm labor risk, etc.). The amniotic sac protects the baby. You may need to find new comfortable positions as the bump grows. Listen to your body and communicate with your partner.",
+      "source": "ACOG",
+      "tags": ["sex", "intimacy", "safety", "pregnancy"]
+    },
+    {
+      "id": "C4.3-015",
+      "subcategory": "Symptoms & Changes",
+      "question": "What is round ligament pain?",
+      "answer": "Round ligament pain is sharp, brief pain in the lower abdomen or groin, common in the second trimester. It happens when the ligaments supporting the uterus stretch as the baby grows. Triggered by sudden movements (coughing, standing up quickly). Moving slowly and supporting the belly when changing positions helps.",
+      "source": "Cleveland Clinic",
+      "tags": ["round ligament pain", "second trimester", "abdomen", "ligaments"]
+    },
+    {
+      "id": "C4.4-001",
+      "subcategory": "Nutrition & Lifestyle",
+      "question": "What foods should I avoid during pregnancy?",
+      "answer": "Avoid: raw or undercooked meat/eggs/fish, deli meats (unless heated), unpasteurized dairy, high-mercury fish (shark, swordfish, king mackerel), raw sprouts, alcohol, excessive caffeine, raw cookie dough, and certain herbal teas. Wash all produce thoroughly. These can carry harmful bacteria, parasites, or substances.",
+      "source": "WHO",
+      "tags": ["foods to avoid", "food safety", "nutrition", "listeria"]
+    },
+    {
+      "id": "C4.4-002",
+      "subcategory": "Nutrition & Lifestyle",
+      "question": "What nutrients are most important during pregnancy?",
+      "answer": "Key nutrients: folic acid (400-800 mcg, prevents neural tube defects), iron (27 mg, prevents anemia), calcium (1000 mg, bone development), DHA omega-3 (brain development), vitamin D (calcium absorption), iodine (thyroid/brain), and protein (75-100g daily). Prenatal vitamins cover most needs, supplementing a balanced diet.",
+      "source": "ACOG",
+      "tags": ["nutrients", "vitamins", "prenatal", "folic acid"]
+    },
+    {
+      "id": "C4.4-003",
+      "subcategory": "Nutrition & Lifestyle",
+      "question": "Is it safe to exercise during pregnancy?",
+      "answer": "Yes, exercise is encouraged in healthy pregnancies. Aim for 150 minutes/week of moderate activity. Safe options: walking, swimming, prenatal yoga, stationary cycling. Avoid contact sports, activities with fall risk (skiing, horseback), and lying flat on your back after 20 weeks. Stop and consult if you experience pain or bleeding.",
+      "source": "ACOG",
+      "tags": ["exercise", "safe activities", "150 minutes", "pregnancy fitness"]
+    },
+    {
+      "id": "C4.4-004",
+      "subcategory": "Nutrition & Lifestyle",
+      "question": "How much water should I drink during pregnancy?",
+      "answer": "Pregnant women need 8-12 cups (2-3 liters) of water daily — more in hot weather or during exercise. Adequate hydration supports increased blood volume, amniotic fluid, and prevents constipation, swelling, and UTIs. Sip throughout the day rather than drinking large amounts at once. Pay attention to thirst signals.",
+      "source": "WHO",
+      "tags": ["hydration", "water", "fluids", "pregnancy"]
+    },
+    {
+      "id": "C4.4-005",
+      "subcategory": "Nutrition & Lifestyle",
+      "question": "Should I eat for two during pregnancy?",
+      "answer": "No, this is a myth. Caloric needs increase modestly: about 340 extra calories/day in second trimester, 450 in third. First trimester usually needs no extra calories. Focus on nutrient-dense foods rather than quantity. Overeating leads to excessive weight gain, which complicates pregnancy and delivery.",
+      "source": "Mayo Clinic",
+      "tags": ["calories", "eating for two", "myth", "weight gain"]
+    },
+    {
+      "id": "C4.5-001",
+      "subcategory": "When to Call Doctor",
+      "question": "What pregnancy symptoms require immediate medical attention?",
+      "answer": "Call your provider immediately for: heavy bleeding, severe abdominal pain, severe headache with vision changes, severe swelling (especially face), no fetal movement after 28 weeks for several hours, fever over 38°C, persistent vomiting unable to keep fluids down, water breaking, or signs of preterm labor.",
+      "source": "ACOG",
+      "tags": ["warning signs", "emergency", "immediate care", "complications"]
+    },
+    {
+      "id": "C4.5-002",
+      "subcategory": "When to Call Doctor",
+      "question": "When should I worry about reduced fetal movement?",
+      "answer": "After 28 weeks, you should feel regular movements. If movements significantly decrease or stop, drink something cold/sweet, lie on your left side, and count movements for an hour. Fewer than 10 movements in 2 hours, or any sudden major change, warrants immediate medical evaluation.",
+      "source": "ACOG",
+      "tags": ["fetal movement", "kick counts", "third trimester", "warning"]
+    },
+    {
+      "id": "C4.5-003",
+      "subcategory": "When to Call Doctor",
+      "question": "What is preterm labor and what are the signs?",
+      "answer": "Preterm labor is labor before 37 weeks. Signs include regular contractions (more than 4/hour), low back pain or pressure, pelvic pressure, vaginal discharge change, leaking fluid, or vaginal bleeding. Call your provider immediately — early intervention can sometimes stop or delay preterm labor.",
+      "source": "WHO",
+      "tags": ["preterm labor", "early labor", "warning signs", "emergency"]
+    },
+    {
+      "id": "C4.5-004",
+      "subcategory": "When to Call Doctor",
+      "question": "What are signs of miscarriage?",
+      "answer": "Miscarriage signs include heavy vaginal bleeding (with or without clots), severe abdominal cramping or back pain, passage of tissue, and sudden loss of pregnancy symptoms. Light spotting in early pregnancy is often normal, but any bleeding should be reported to your provider for evaluation.",
+      "source": "Mayo Clinic",
+      "tags": ["miscarriage", "bleeding", "warning signs", "pregnancy loss"]
+    },
+    {
+      "id": "C4.5-005",
+      "subcategory": "When to Call Doctor",
+      "question": "When should I go to the hospital for labor?",
+      "answer": "Go to the hospital when: contractions follow the '5-1-1 rule' (every 5 min, lasting 1 min, for 1 hour) for first-time moms, or every 7-10 min for experienced moms; your water breaks; you have heavy bleeding; you can't speak through contractions; or you sense something is wrong. When in doubt, call your provider.",
+      "source": "ACOG",
+      "tags": ["hospital", "when to go", "labor", "contractions"]
+    }
+  ]
+}
