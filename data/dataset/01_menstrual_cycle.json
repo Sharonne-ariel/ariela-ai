@@ -2,9 +2,9 @@
   "category": "Menstrual Cycle",
   "category_id": "C1",
   "language": "en",
-  "total_questions": 10,
+  "total_questions": 45,
   "target_questions": 45,
-  "sources_used": ["Mayo Clinic", "ACOG", "Cleveland Clinic", "NHS", "NIH", "Endocrine Society", "Planned Parenthood"],
+  "sources_used": ["Mayo Clinic", "ACOG", "Cleveland Clinic", "NHS", "NIH", "Endocrine Society", "Planned Parenthood", "WHO", "Office on Women's Health"],
   "entries": [
     {
       "id": "C1.1-001",
@@ -85,6 +85,286 @@
       "answer": "It's unlikely but possible, especially if you have a short cycle (21-24 days). Sperm can survive in the body for up to 5 days, so intercourse near the end of a period could lead to pregnancy if ovulation happens early. The only fully effective way to prevent pregnancy is reliable contraception.",
       "source": "Planned Parenthood",
       "tags": ["pregnancy", "fertility", "period", "contraception"]
+    },
+    {
+      "id": "C1.2-001",
+      "subcategory": "Tracking",
+      "question": "Why should I track my menstrual cycle?",
+      "answer": "Tracking your cycle helps you predict your next period, understand your body's patterns, identify irregularities, plan around symptoms, and provides useful information to share with healthcare providers. It can also help you recognize when something feels different from your normal.",
+      "source": "ACOG",
+      "tags": ["tracking", "benefits", "patterns", "self-awareness"]
+    },
+    {
+      "id": "C1.2-002",
+      "subcategory": "Tracking",
+      "question": "How do I start tracking my period?",
+      "answer": "Start by marking the first day of your period (when bleeding begins) on a calendar or app. Continue marking each day of bleeding. After 2-3 cycles, you'll start to see patterns in length and symptoms. Tracking apps like ARIELA can automate predictions and pattern recognition.",
+      "source": "Office on Women's Health",
+      "tags": ["how to", "tracking", "beginners", "calendar"]
+    },
+    {
+      "id": "C1.2-003",
+      "subcategory": "Tracking",
+      "question": "What information should I track each month?",
+      "answer": "Track the start and end dates of your period, flow intensity (light, medium, heavy), symptoms (cramps, mood, fatigue, bloating), and any unusual occurrences. Also note relevant lifestyle factors like stress, sleep, exercise, or medications, as they can affect your cycle.",
+      "source": "Mayo Clinic",
+      "tags": ["what to track", "symptoms", "lifestyle", "details"]
+    },
+    {
+      "id": "C1.2-004",
+      "subcategory": "Tracking",
+      "question": "How accurate are period prediction apps?",
+      "answer": "Period prediction apps are most accurate for people with regular cycles, with accuracy improving after 3-6 months of consistent tracking. They use averages from your past cycles. Apps are less reliable for irregular cycles, during puberty, perimenopause, or after stopping hormonal contraception.",
+      "source": "ACOG",
+      "tags": ["apps", "accuracy", "predictions", "limitations"]
+    },
+    {
+      "id": "C1.2-005",
+      "subcategory": "Tracking",
+      "question": "How many cycles do I need to track before seeing patterns?",
+      "answer": "Most people start seeing reliable patterns after tracking 3 to 6 complete cycles. Cycle length, period duration, and recurring symptoms become clearer with consistent tracking. The more data you collect, the better predictions and pattern recognition become.",
+      "source": "Cleveland Clinic",
+      "tags": ["patterns", "duration", "data", "consistency"]
+    },
+    {
+      "id": "C1.2-006",
+      "subcategory": "Tracking",
+      "question": "Can I track my cycle if it's irregular?",
+      "answer": "Yes, tracking is especially valuable if your cycle is irregular. While predictions may be less accurate, tracking helps identify the level of irregularity, reveals underlying patterns, and provides crucial information for your doctor to diagnose potential conditions like PCOS or thyroid issues.",
+      "source": "Office on Women's Health",
+      "tags": ["irregular", "tracking", "PCOS", "diagnosis"]
+    },
+    {
+      "id": "C1.2-007",
+      "subcategory": "Tracking",
+      "question": "What does 'day 1 of my cycle' mean?",
+      "answer": "Day 1 of your cycle is the first day you have actual bleeding — not spotting. Spotting (very light pink or brown discharge) before your period doesn't count as day 1. The cycle continues until the day before your next period begins.",
+      "source": "ACOG",
+      "tags": ["day 1", "definition", "spotting", "tracking basics"]
+    },
+    {
+      "id": "C1.2-008",
+      "subcategory": "Tracking",
+      "question": "Should I track ovulation as well as my period?",
+      "answer": "Yes, tracking ovulation gives you a complete picture of your cycle. Signs include changes in cervical mucus (clearer and stretchier), slight body temperature rise (0.3-0.5°C), and sometimes mild pain on one side. Ovulation tracking is especially useful for fertility awareness.",
+      "source": "Mayo Clinic",
+      "tags": ["ovulation", "tracking", "fertility", "signs"]
+    },
+    {
+      "id": "C1.2-009",
+      "subcategory": "Tracking",
+      "question": "Will hormonal contraception affect my tracking?",
+      "answer": "Yes, significantly. Hormonal contraceptives (pill, patch, hormonal IUD, implant) override your natural cycle. The bleeding you experience on these methods isn't a true period but a withdrawal bleed. Tracking is most meaningful for natural cycles or when stopping hormonal contraception.",
+      "source": "Planned Parenthood",
+      "tags": ["contraception", "hormonal", "tracking", "withdrawal bleed"]
+    },
+    {
+      "id": "C1.2-010",
+      "subcategory": "Tracking",
+      "question": "Is my period app data private?",
+      "answer": "It depends on the app. Reputable apps explain their privacy policy clearly and let you delete your data. Look for apps that don't sell data to third parties, offer encryption, and comply with regulations like GDPR. Always review the privacy policy before sharing sensitive health information.",
+      "source": "Office on Women's Health",
+      "tags": ["privacy", "data", "apps", "security"]
+    },
+    {
+      "id": "C1.3-001",
+      "subcategory": "Irregularities",
+      "question": "What does an irregular cycle mean?",
+      "answer": "An irregular cycle is one that consistently varies by more than 7-9 days in length, or where periods are unpredictable. Cycles shorter than 21 days, longer than 35 days, or missing for 3+ months without pregnancy are considered irregular and worth discussing with a doctor.",
+      "source": "ACOG",
+      "tags": ["irregular", "definition", "abnormal", "concerns"]
+    },
+    {
+      "id": "C1.3-002",
+      "subcategory": "Irregularities",
+      "question": "Why is my period late?",
+      "answer": "Common reasons for a late period include pregnancy, stress, significant weight changes, intense exercise, hormonal changes (PCOS, thyroid issues), travel, illness, medications, or approaching menopause. If you're sexually active, take a pregnancy test. If late frequently, consult a doctor.",
+      "source": "Mayo Clinic",
+      "tags": ["late period", "causes", "stress", "pregnancy"]
+    },
+    {
+      "id": "C1.3-003",
+      "subcategory": "Irregularities",
+      "question": "Why did I miss my period?",
+      "answer": "Missed periods (amenorrhea) can result from pregnancy, breastfeeding, extreme stress, low body weight or excessive exercise, PCOS, thyroid disorders, premature ovarian failure, or hormonal contraception. If you've missed 3 or more periods in a row without pregnancy, see a healthcare provider.",
+      "source": "Cleveland Clinic",
+      "tags": ["missed period", "amenorrhea", "causes", "consultation"]
+    },
+    {
+      "id": "C1.3-004",
+      "subcategory": "Irregularities",
+      "question": "Why is my period very heavy?",
+      "answer": "Heavy menstrual bleeding (menorrhagia) means soaking through a pad or tampon every 1-2 hours, passing large clots, or bleeding more than 7 days. Causes include fibroids, polyps, hormonal imbalance, bleeding disorders, or IUDs. Heavy bleeding causing fatigue or anemia needs medical evaluation.",
+      "source": "ACOG",
+      "tags": ["heavy bleeding", "menorrhagia", "fibroids", "anemia"]
+    },
+    {
+      "id": "C1.3-005",
+      "subcategory": "Irregularities",
+      "question": "Why is my period very light?",
+      "answer": "Light periods (hypomenorrhea) can be normal for some people, especially on hormonal contraception. Other causes include stress, weight changes, hormonal imbalances, perimenopause, or scarring from procedures. If your periods suddenly become much lighter, mention it to your doctor.",
+      "source": "NHS",
+      "tags": ["light period", "hypomenorrhea", "contraception", "changes"]
+    },
+    {
+      "id": "C1.3-006",
+      "subcategory": "Irregularities",
+      "question": "What is spotting between periods?",
+      "answer": "Spotting is light bleeding outside your period. Common causes include hormonal contraception (especially when starting), ovulation, hormonal imbalances, infections, or pregnancy. Occasional spotting is usually harmless, but persistent or heavy spotting needs medical evaluation.",
+      "source": "Cleveland Clinic",
+      "tags": ["spotting", "intermenstrual bleeding", "causes", "contraception"]
+    },
+    {
+      "id": "C1.3-007",
+      "subcategory": "Irregularities",
+      "question": "Can stress cause irregular periods?",
+      "answer": "Yes, stress significantly impacts your cycle. Chronic stress elevates cortisol, which suppresses reproductive hormones, causing delayed, missed, or irregular periods. Major life events, anxiety, lack of sleep, and emotional strain can all affect cycle regularity. Stress management often helps restore regular cycles.",
+      "source": "Mayo Clinic",
+      "tags": ["stress", "cortisol", "irregular", "lifestyle"]
+    },
+    {
+      "id": "C1.3-008",
+      "subcategory": "Irregularities",
+      "question": "Can exercise affect my menstrual cycle?",
+      "answer": "Moderate exercise generally supports cycle health. However, intense exercise combined with low calorie intake can disrupt your cycle, sometimes causing missed periods (exercise-induced amenorrhea). This is most common in endurance athletes and people with low body fat. Balance exercise with adequate nutrition.",
+      "source": "ACOG",
+      "tags": ["exercise", "athletes", "amenorrhea", "body fat"]
+    },
+    {
+      "id": "C1.3-009",
+      "subcategory": "Irregularities",
+      "question": "What is PCOS and how does it affect my period?",
+      "answer": "Polycystic Ovary Syndrome (PCOS) is a common hormonal condition affecting 1 in 10 women. It causes irregular or absent periods, excess androgen hormones (leading to acne or excess hair), and often small cysts on ovaries. PCOS is manageable with medication, lifestyle changes, and medical guidance.",
+      "source": "WHO",
+      "tags": ["PCOS", "hormonal", "irregular", "androgen"]
+    },
+    {
+      "id": "C1.3-010",
+      "subcategory": "Irregularities",
+      "question": "Can thyroid problems affect my period?",
+      "answer": "Yes, both underactive (hypothyroidism) and overactive (hyperthyroidism) thyroid conditions can cause irregular, heavy, light, or missed periods. The thyroid hormone interacts with reproductive hormones. If you have irregular cycles plus fatigue, weight changes, or hair changes, ask your doctor for a thyroid test.",
+      "source": "Endocrine Society",
+      "tags": ["thyroid", "hypothyroidism", "hyperthyroidism", "irregular"]
+    },
+    {
+      "id": "C1.3-011",
+      "subcategory": "Irregularities",
+      "question": "Why are my periods irregular as a teenager?",
+      "answer": "Irregular periods are very common in the first 2-3 years after menarche. The hypothalamus-ovary axis is still maturing, so ovulation may not happen every cycle. Cycles can be unpredictable in length, flow, and frequency. By age 18-20, most cycles become more regular.",
+      "source": "ACOG",
+      "tags": ["teenagers", "puberty", "irregular", "menarche"]
+    },
+    {
+      "id": "C1.3-012",
+      "subcategory": "Irregularities",
+      "question": "What is endometriosis?",
+      "answer": "Endometriosis is a condition where tissue similar to the uterine lining grows outside the uterus, causing severe pain, heavy bleeding, and sometimes infertility. It affects about 1 in 10 women. Symptoms include painful periods, pain during sex, and chronic pelvic pain. Diagnosis often requires a specialist.",
+      "source": "WHO",
+      "tags": ["endometriosis", "pain", "chronic", "infertility"]
+    },
+    {
+      "id": "C1.3-013",
+      "subcategory": "Irregularities",
+      "question": "When should I see a doctor about my period?",
+      "answer": "See a doctor if: you haven't had your first period by age 16, you go more than 3 months without a period (and aren't pregnant), your cycle is shorter than 21 or longer than 35 days regularly, you have very heavy bleeding, severe pain that disrupts daily life, or sudden changes from your normal pattern.",
+      "source": "Mayo Clinic",
+      "tags": ["consultation", "warning signs", "when to worry", "doctor"]
+    },
+    {
+      "id": "C1.3-014",
+      "subcategory": "Irregularities",
+      "question": "Can travel change my cycle?",
+      "answer": "Yes, travel can temporarily disrupt your cycle. Changes in time zones, sleep, stress, diet, and routine all affect hormones. A delayed or early period during or after travel is common and usually resolves within 1-2 cycles. Long-haul travel and jet lag have the most impact.",
+      "source": "NHS",
+      "tags": ["travel", "jet lag", "disruption", "temporary"]
+    },
+    {
+      "id": "C1.3-015",
+      "subcategory": "Irregularities",
+      "question": "Can being underweight or overweight affect my cycle?",
+      "answer": "Yes, body fat plays a role in hormone production. Very low body fat (often from undereating or excessive exercise) can stop ovulation and periods. Excess body fat can cause higher estrogen levels and irregular cycles. Maintaining a balanced weight supports regular menstrual function.",
+      "source": "WHO",
+      "tags": ["weight", "body fat", "hormones", "amenorrhea"]
+    },
+    {
+      "id": "C1.4-001",
+      "subcategory": "Symptoms & PMS",
+      "question": "What is PMS?",
+      "answer": "Premenstrual Syndrome (PMS) is a group of physical and emotional symptoms that appear 1-2 weeks before your period and resolve when it starts. Common symptoms include mood swings, bloating, breast tenderness, fatigue, irritability, and food cravings. About 75% of menstruating people experience some PMS.",
+      "source": "ACOG",
+      "tags": ["PMS", "premenstrual", "symptoms", "common"]
+    },
+    {
+      "id": "C1.4-002",
+      "subcategory": "Symptoms & PMS",
+      "question": "Why do I get cramps during my period?",
+      "answer": "Period cramps (dysmenorrhea) are caused by prostaglandins — chemicals that make the uterus contract to shed its lining. Higher prostaglandin levels mean stronger cramps. Cramps usually feel like a dull or throbbing ache in the lower abdomen and can radiate to the back or thighs.",
+      "source": "Cleveland Clinic",
+      "tags": ["cramps", "dysmenorrhea", "prostaglandins", "pain"]
+    },
+    {
+      "id": "C1.4-003",
+      "subcategory": "Symptoms & PMS",
+      "question": "How can I relieve period cramps naturally?",
+      "answer": "Try a heating pad or warm bath on your abdomen, gentle exercise like walking or yoga, staying hydrated, getting enough sleep, and eating anti-inflammatory foods (omega-3, leafy greens, ginger). Magnesium and B6 supplements may help. Reducing caffeine and salt can also ease symptoms.",
+      "source": "Mayo Clinic",
+      "tags": ["natural remedies", "cramps", "heat", "lifestyle"]
+    },
+    {
+      "id": "C1.4-004",
+      "subcategory": "Symptoms & PMS",
+      "question": "When should I take pain medication for cramps?",
+      "answer": "Over-the-counter NSAIDs like ibuprofen or naproxen are effective when taken at the first sign of cramps. They work by reducing prostaglandins. Take with food and follow dosage instructions. If pain medications don't help or you need them every cycle, talk to a doctor about your options.",
+      "source": "ACOG",
+      "tags": ["pain medication", "NSAIDs", "ibuprofen", "cramps"]
+    },
+    {
+      "id": "C1.4-005",
+      "subcategory": "Symptoms & PMS",
+      "question": "Why does my mood change before my period?",
+      "answer": "Hormonal fluctuations in the luteal phase (after ovulation) affect neurotransmitters like serotonin, which regulates mood. This can cause irritability, sadness, anxiety, or emotional sensitivity. Mood symptoms typically peak 2-3 days before your period and resolve once bleeding starts.",
+      "source": "Office on Women's Health",
+      "tags": ["mood", "PMS", "hormones", "serotonin"]
+    },
+    {
+      "id": "C1.4-006",
+      "subcategory": "Symptoms & PMS",
+      "question": "Why am I so tired during my period?",
+      "answer": "Period fatigue has several causes: drop in estrogen and progesterone, blood loss leading to mild iron deficiency, disrupted sleep from cramps or discomfort, and increased prostaglandins. Eating iron-rich foods, staying hydrated, and prioritizing rest can help. Severe fatigue may signal anemia.",
+      "source": "Cleveland Clinic",
+      "tags": ["fatigue", "tiredness", "iron", "anemia"]
+    },
+    {
+      "id": "C1.4-007",
+      "subcategory": "Symptoms & PMS",
+      "question": "Why do I crave food before my period?",
+      "answer": "Food cravings (especially carbs and sweets) before your period are linked to hormonal changes affecting serotonin and blood sugar. Your body uses more energy in the luteal phase, slightly increasing calorie needs. Choose nutritious options with protein and complex carbs to satisfy cravings while avoiding crashes.",
+      "source": "Mayo Clinic",
+      "tags": ["cravings", "food", "carbs", "luteal phase"]
+    },
+    {
+      "id": "C1.4-008",
+      "subcategory": "Symptoms & PMS",
+      "question": "What is bloating during my period?",
+      "answer": "Period bloating is fluid retention and gas caused by hormonal shifts, particularly fluctuations in estrogen and progesterone. It can make you feel puffy in the abdomen, hands, or feet. Reducing salt, drinking water, gentle exercise, and avoiding gas-producing foods can help reduce bloating.",
+      "source": "ACOG",
+      "tags": ["bloating", "water retention", "hormones", "abdomen"]
+    },
+    {
+      "id": "C1.4-009",
+      "subcategory": "Symptoms & PMS",
+      "question": "Why are my breasts sore before my period?",
+      "answer": "Breast tenderness (mastalgia) before your period is caused by hormonal changes, particularly rising progesterone. Breasts may feel swollen, sore, or sensitive. Wearing a supportive bra, reducing caffeine and salt, and applying gentle heat or cold can help. Severe pain warrants medical evaluation.",
+      "source": "Cleveland Clinic",
+      "tags": ["breast tenderness", "mastalgia", "progesterone", "PMS"]
+    },
+    {
+      "id": "C1.4-010",
+      "subcategory": "Symptoms & PMS",
+      "question": "Why do I get headaches during my period?",
+      "answer": "Menstrual headaches and migraines are common and triggered by the drop in estrogen just before your period. They can range from mild tension headaches to severe migraines. Staying hydrated, getting enough sleep, and managing stress can help. Severe or persistent migraines should be discussed with a doctor.",
+      "source": "Mayo Clinic",
+      "tags": ["headaches", "migraines", "estrogen drop", "hormones"]
     }
   ]
 }
