@@ -1,0 +1,90 @@
+{
+  "category": "Menstrual Cycle",
+  "category_id": "C1",
+  "language": "en",
+  "total_questions": 10,
+  "target_questions": 45,
+  "sources_used": ["Mayo Clinic", "ACOG", "Cleveland Clinic", "NHS", "NIH", "Endocrine Society", "Planned Parenthood"],
+  "entries": [
+    {
+      "id": "C1.1-001",
+      "subcategory": "Basics",
+      "question": "What exactly is a menstrual period?",
+      "answer": "A menstrual period is the monthly shedding of the uterine lining (endometrium) when pregnancy doesn't occur. It typically lasts 3 to 7 days and is a normal part of the reproductive cycle. The blood and tissue leave your body through the vagina.",
+      "source": "Mayo Clinic",
+      "tags": ["period", "menstruation", "basics", "definition"]
+    },
+    {
+      "id": "C1.1-002",
+      "subcategory": "Basics",
+      "question": "How long should a normal menstrual cycle be?",
+      "answer": "A normal cycle ranges from 21 to 35 days for most adults, counted from the first day of one period to the first day of the next. The average is around 28 days, but variations within this range are completely normal. Cycles can vary slightly month to month.",
+      "source": "ACOG",
+      "tags": ["cycle length", "duration", "normal", "basics"]
+    },
+    {
+      "id": "C1.1-003",
+      "subcategory": "Basics",
+      "question": "Why do women have periods?",
+      "answer": "Periods happen because the uterus prepares each month for a possible pregnancy by building up a thick, blood-rich lining. When no pregnancy occurs, hormones drop and the body sheds this lining as menstrual blood. It's the body's way of resetting the reproductive cycle.",
+      "source": "Mayo Clinic",
+      "tags": ["why", "purpose", "basics", "hormones"]
+    },
+    {
+      "id": "C1.1-004",
+      "subcategory": "Basics",
+      "question": "What are the four phases of the menstrual cycle?",
+      "answer": "The cycle has four phases: menstrual (period, days 1-5), follicular (days 1-13, ovary prepares an egg), ovulation (around day 14, egg release), and luteal (days 15-28, body prepares for possible pregnancy). Each phase involves different hormones and can affect mood, energy, and the body.",
+      "source": "Cleveland Clinic",
+      "tags": ["phases", "follicular", "luteal", "ovulation"]
+    },
+    {
+      "id": "C1.1-005",
+      "subcategory": "Basics",
+      "question": "How much blood do you lose during a period?",
+      "answer": "On average, women lose between 30 and 80 milliliters of blood over an entire period — about 2 to 6 tablespoons. While it can feel like much more, soaking a regular pad or tampon every 1-2 hours for several hours may indicate unusually heavy bleeding and is worth discussing with a doctor.",
+      "source": "NHS",
+      "tags": ["blood loss", "heavy period", "volume", "normal"]
+    },
+    {
+      "id": "C1.1-006",
+      "subcategory": "Basics",
+      "question": "At what age does menstruation usually start?",
+      "answer": "Most girls get their first period (menarche) between ages 10 and 15, with the average around 12. Starting as early as 9 or as late as 16 is also within the normal range. If menstruation hasn't started by age 16, it's a good idea to consult a doctor.",
+      "source": "Mayo Clinic",
+      "tags": ["menarche", "first period", "age", "puberty"]
+    },
+    {
+      "id": "C1.1-007",
+      "subcategory": "Basics",
+      "question": "When does menopause typically begin?",
+      "answer": "Menopause usually starts between ages 45 and 55, with the average around 51. It's officially defined as 12 consecutive months without a period. The transition phase (perimenopause) can last several years and involves irregular cycles, hot flashes, and hormonal changes.",
+      "source": "NIH",
+      "tags": ["menopause", "perimenopause", "age", "end of cycles"]
+    },
+    {
+      "id": "C1.1-008",
+      "subcategory": "Basics",
+      "question": "Is it normal to have clots during my period?",
+      "answer": "Small blood clots (smaller than a coin) are normal and common during heavier flow days. They form when blood pools and clotting agents activate. Large clots (bigger than a quarter), or frequent large clots accompanied by very heavy bleeding, may indicate a condition worth checking with a doctor.",
+      "source": "Cleveland Clinic",
+      "tags": ["clots", "heavy flow", "normal", "concerns"]
+    },
+    {
+      "id": "C1.1-009",
+      "subcategory": "Basics",
+      "question": "What hormones control my menstrual cycle?",
+      "answer": "Four main hormones control the cycle: estrogen and progesterone (made in the ovaries), and FSH (follicle-stimulating hormone) and LH (luteinizing hormone) (made by the brain). They rise and fall throughout the month, triggering ovulation and menstruation.",
+      "source": "Endocrine Society",
+      "tags": ["hormones", "estrogen", "progesterone", "FSH", "LH"]
+    },
+    {
+      "id": "C1.1-010",
+      "subcategory": "Basics",
+      "question": "Can I get pregnant during my period?",
+      "answer": "It's unlikely but possible, especially if you have a short cycle (21-24 days). Sperm can survive in the body for up to 5 days, so intercourse near the end of a period could lead to pregnancy if ovulation happens early. The only fully effective way to prevent pregnancy is reliable contraception.",
+      "source": "Planned Parenthood",
+      "tags": ["pregnancy", "fertility", "period", "contraception"]
+    }
+  ]
+}

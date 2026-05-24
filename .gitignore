@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ML artifacts
+*.pkl
+*.bin
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# Data — keep dataset, ignore raw
+data/raw/*
+!data/raw/.gitkeep
+
+# Secrets
+.env
+.env.local
+*.key
+secrets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face
+.cache/

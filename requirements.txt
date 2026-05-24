@@ -1,0 +1,30 @@
+# Core ML
+sentence-transformers==3.0.1
+transformers==4.41.2
+torch==2.3.1
+
+# Vector store
+chromadb==0.5.3
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+datasets==2.20.0
+
+# Utilities
+python-dotenv==1.0.1
+tqdm==4.66.4
+
+# API
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+
+# Evaluation
+scikit-learn==1.5.0
+
+# Notebooks
+jupyter==1.0.0
+ipykernel==6.29.4
+matplotlib==3.9.0
+seaborn==0.13.2
