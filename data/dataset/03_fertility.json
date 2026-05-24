@@ -1,0 +1,450 @@
+{
+  "category": "Fertility",
+  "category_id": "C3",
+  "language": "en",
+  "total_questions": 50,
+  "target_questions": 50,
+  "sources_used": ["Mayo Clinic", "ACOG", "Cleveland Clinic", "NHS", "Planned Parenthood", "ASRM (American Society for Reproductive Medicine)", "WHO", "NIH"],
+  "entries": [
+    {
+      "id": "C3.1-001",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What is ovulation?",
+      "answer": "Ovulation is when one of your ovaries releases a mature egg into the fallopian tube. It usually happens about 14 days before your next period starts. The egg lives for 12-24 hours and can be fertilized by sperm during that window. Ovulation is when conception is possible.",
+      "source": "Mayo Clinic",
+      "tags": ["ovulation", "egg release", "conception", "basics"]
+    },
+    {
+      "id": "C3.1-002",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What is the fertile window?",
+      "answer": "The fertile window is the 6 days when you can get pregnant: the 5 days before ovulation plus the day of ovulation itself. Sperm can survive in the body for up to 5 days, so intercourse during this window can lead to pregnancy. Outside this window, conception is very unlikely.",
+      "source": "ACOG",
+      "tags": ["fertile window", "conception", "timing", "pregnancy"]
+    },
+    {
+      "id": "C3.1-003",
+      "subcategory": "Cycle & Ovulation",
+      "question": "When do I ovulate in my cycle?",
+      "answer": "Ovulation typically happens about 14 days before your next period. For a 28-day cycle, that's around day 14. For a 30-day cycle, around day 16. For a 26-day cycle, around day 12. The luteal phase (after ovulation) is fairly constant at 14 days for most people.",
+      "source": "Cleveland Clinic",
+      "tags": ["ovulation timing", "cycle day", "luteal phase", "calculation"]
+    },
+    {
+      "id": "C3.1-004",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What are the signs of ovulation?",
+      "answer": "Common signs include: clearer and stretchier cervical mucus (like raw egg white), a slight rise in basal body temperature (0.3-0.5°C), mild pain on one side of your lower abdomen (mittelschmerz), increased libido, and breast tenderness. Tracking these signs helps you identify your fertile window.",
+      "source": "Mayo Clinic",
+      "tags": ["ovulation signs", "cervical mucus", "temperature", "symptoms"]
+    },
+    {
+      "id": "C3.1-005",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What is cervical mucus and what does it tell me?",
+      "answer": "Cervical mucus is fluid produced by the cervix. It changes throughout your cycle: dry after period, then sticky, creamy, and finally clear and stretchy (like egg white) around ovulation. The egg-white type is the most fertile mucus — it helps sperm survive and reach the egg.",
+      "source": "ACOG",
+      "tags": ["cervical mucus", "fertility signs", "ovulation", "tracking"]
+    },
+    {
+      "id": "C3.1-006",
+      "subcategory": "Cycle & Ovulation",
+      "question": "Can I ovulate more than once per cycle?",
+      "answer": "Multiple ovulations in one cycle are very rare. When they do happen, both eggs are released within 24 hours of each other (which is how non-identical twins occur). You can't ovulate again later in the same cycle after the luteal phase has begun.",
+      "source": "ASRM",
+      "tags": ["multiple ovulation", "twins", "rare", "biology"]
+    },
+    {
+      "id": "C3.1-007",
+      "subcategory": "Cycle & Ovulation",
+      "question": "Do I ovulate every cycle?",
+      "answer": "Most healthy adults with regular cycles ovulate every month, but not always. Anovulatory cycles (where no egg is released) can happen occasionally, especially during teen years, perimenopause, after stopping contraception, or with conditions like PCOS. Frequent anovulation may need medical evaluation.",
+      "source": "Cleveland Clinic",
+      "tags": ["anovulation", "irregular", "PCOS", "every month"]
+    },
+    {
+      "id": "C3.1-008",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What is mittelschmerz?",
+      "answer": "Mittelschmerz (German for 'middle pain') is mild pelvic pain felt on one side during ovulation. It happens when the egg breaks through the ovarian wall. The pain is usually brief (a few minutes to a few hours) and harmless. About 1 in 5 women experience it regularly.",
+      "source": "Mayo Clinic",
+      "tags": ["mittelschmerz", "ovulation pain", "pelvic pain", "normal"]
+    },
+    {
+      "id": "C3.1-009",
+      "subcategory": "Cycle & Ovulation",
+      "question": "Can I get pregnant if I'm not ovulating?",
+      "answer": "No, ovulation is required for natural conception because pregnancy needs an egg. If you don't ovulate (anovulation), you can't get pregnant in that cycle. However, fertility treatments can stimulate ovulation, and assisted reproduction methods like IVF use donor or extracted eggs.",
+      "source": "ASRM",
+      "tags": ["anovulation", "conception", "infertility", "treatment"]
+    },
+    {
+      "id": "C3.1-010",
+      "subcategory": "Cycle & Ovulation",
+      "question": "Does ovulation always happen on day 14?",
+      "answer": "No, day 14 is an average for 28-day cycles, but ovulation timing varies. It depends on your cycle length. The luteal phase (after ovulation) is more constant at 12-16 days. So if your cycle is 30 days, you likely ovulate around day 16. Tracking helps identify your actual ovulation day.",
+      "source": "ACOG",
+      "tags": ["ovulation day", "myth", "cycle variation", "tracking"]
+    },
+    {
+      "id": "C3.1-011",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What is the luteal phase?",
+      "answer": "The luteal phase is the second half of your cycle, from ovulation until your next period. It lasts 12-16 days (typically 14). During this phase, progesterone rises to prepare the uterus for potential pregnancy. If no pregnancy occurs, hormones drop and your period starts.",
+      "source": "Mayo Clinic",
+      "tags": ["luteal phase", "progesterone", "post-ovulation", "cycle"]
+    },
+    {
+      "id": "C3.1-012",
+      "subcategory": "Cycle & Ovulation",
+      "question": "Can stress delay ovulation?",
+      "answer": "Yes, stress can delay or prevent ovulation. High cortisol levels disrupt the hormonal signals that trigger egg release. This is why stress-related cycles are often longer than usual. Once stress resolves, ovulation usually returns. Chronic stress may require lifestyle changes to restore regular ovulation.",
+      "source": "Cleveland Clinic",
+      "tags": ["stress", "delayed ovulation", "cortisol", "lifestyle"]
+    },
+    {
+      "id": "C3.1-013",
+      "subcategory": "Cycle & Ovulation",
+      "question": "Does the side of ovulation alternate each month?",
+      "answer": "Not necessarily. While many people assume ovaries 'take turns,' research shows it's often random. One ovary may ovulate several months in a row, then the other. The dominant follicle (the one ready to release an egg) is chosen by hormonal signals, not by strict alternation.",
+      "source": "ASRM",
+      "tags": ["ovaries", "alternating", "biology", "myth"]
+    },
+    {
+      "id": "C3.1-014",
+      "subcategory": "Cycle & Ovulation",
+      "question": "What happens to the egg after ovulation if it isn't fertilized?",
+      "answer": "If the egg isn't fertilized within 12-24 hours after release, it dissolves and is absorbed by the body. The uterine lining, prepared for a potential pregnancy, is then shed about 12-14 days later as menstrual blood. Your next cycle begins.",
+      "source": "Cleveland Clinic",
+      "tags": ["egg lifespan", "no fertilization", "menstruation", "biology"]
+    },
+    {
+      "id": "C3.1-015",
+      "subcategory": "Cycle & Ovulation",
+      "question": "How can I confirm I actually ovulated?",
+      "answer": "Reliable signs include: a sustained rise in basal body temperature (BBT) for at least 3 days after ovulation, a positive ovulation predictor test (OPK) 24-36 hours before, and getting your period 12-16 days later. Blood tests measuring progesterone 7 days after suspected ovulation also confirm it.",
+      "source": "ACOG",
+      "tags": ["ovulation confirmation", "BBT", "OPK", "progesterone"]
+    },
+    {
+      "id": "C3.2-001",
+      "subcategory": "Trying to Conceive",
+      "question": "How long does it usually take to get pregnant?",
+      "answer": "Most couples conceive within a year of trying. About 30% conceive in the first month, 60% within 3 months, 85% within a year. After 12 months of trying without success (or 6 months if over 35), it's recommended to consult a fertility specialist for evaluation.",
+      "source": "ASRM",
+      "tags": ["conception time", "statistics", "trying", "fertility evaluation"]
+    },
+    {
+      "id": "C3.2-002",
+      "subcategory": "Trying to Conceive",
+      "question": "When is the best time to have sex to get pregnant?",
+      "answer": "The best time is during your fertile window — the 5 days before ovulation and the day of ovulation. Having intercourse every 1-2 days during this window maximizes chances. The day of ovulation and the 2 days before are peak fertility days.",
+      "source": "Mayo Clinic",
+      "tags": ["timing", "intercourse", "conception", "fertile window"]
+    },
+    {
+      "id": "C3.2-003",
+      "subcategory": "Trying to Conceive",
+      "question": "Do I need to be on prenatal vitamins before getting pregnant?",
+      "answer": "Yes, it's recommended to start prenatal vitamins (especially folic acid 400-800 mcg/day) at least 3 months before trying to conceive. Folic acid prevents neural tube defects in early fetal development, even before you know you're pregnant. Other helpful nutrients include iron, vitamin D, and omega-3.",
+      "source": "ACOG",
+      "tags": ["prenatal vitamins", "folic acid", "preparation", "preconception"]
+    },
+    {
+      "id": "C3.2-004",
+      "subcategory": "Trying to Conceive",
+      "question": "What lifestyle changes improve fertility?",
+      "answer": "Maintain a healthy weight (BMI 18.5-24.9), eat a balanced diet rich in antioxidants, exercise moderately (not excessively), avoid smoking and limit alcohol, manage stress, get 7-9 hours of sleep, and limit caffeine to under 200mg/day. These habits support both female and male fertility.",
+      "source": "WHO",
+      "tags": ["lifestyle", "fertility", "diet", "exercise"]
+    },
+    {
+      "id": "C3.2-005",
+      "subcategory": "Trying to Conceive",
+      "question": "Does age affect fertility?",
+      "answer": "Yes, significantly. Female fertility peaks in the 20s, gradually declines in the early 30s, and decreases more rapidly after 35. By 40, the chance of natural conception per cycle is about 5%. Male fertility also declines with age but more gradually. Age is the most important factor in natural fertility.",
+      "source": "ASRM",
+      "tags": ["age", "fertility decline", "biological clock", "statistics"]
+    },
+    {
+      "id": "C3.2-006",
+      "subcategory": "Trying to Conceive",
+      "question": "Should I stop drinking coffee while trying to conceive?",
+      "answer": "You don't have to stop completely, but limit caffeine to under 200mg/day (about 1-2 cups of coffee). High caffeine intake (over 500mg/day) is linked to longer time to conception and higher miscarriage risk. Once pregnant, the same limit applies for the entire pregnancy.",
+      "source": "ACOG",
+      "tags": ["caffeine", "coffee", "pregnancy", "moderation"]
+    },
+    {
+      "id": "C3.2-007",
+      "subcategory": "Trying to Conceive",
+      "question": "Does alcohol affect fertility?",
+      "answer": "Heavy or regular alcohol use can reduce fertility in both partners. Alcohol affects hormone balance, ovulation, and sperm quality. While occasional moderate drinking before conception is generally considered safe, it's recommended to abstain or significantly limit alcohol when trying to conceive — and stop completely once pregnant.",
+      "source": "WHO",
+      "tags": ["alcohol", "fertility", "preconception", "lifestyle"]
+    },
+    {
+      "id": "C3.2-008",
+      "subcategory": "Trying to Conceive",
+      "question": "How does weight affect fertility?",
+      "answer": "Both underweight and overweight conditions can affect fertility. Very low body fat can stop ovulation. Excess body fat raises estrogen levels and can cause irregular ovulation or PCOS. Reaching a healthy BMI (18.5-24.9) often improves fertility within 3-6 months for those affected by weight-related issues.",
+      "source": "Mayo Clinic",
+      "tags": ["weight", "BMI", "fertility", "PCOS"]
+    },
+    {
+      "id": "C3.2-009",
+      "subcategory": "Trying to Conceive",
+      "question": "Can my partner's lifestyle affect our chances of conceiving?",
+      "answer": "Yes, male fertility matters too. Sperm count and quality are affected by smoking, alcohol, drug use, obesity, heat exposure (hot tubs, tight underwear), stress, and certain medications. Optimal sperm health needs about 3 months of healthy habits since sperm take 72 days to mature.",
+      "source": "ASRM",
+      "tags": ["male fertility", "sperm health", "partner", "lifestyle"]
+    },
+    {
+      "id": "C3.2-010",
+      "subcategory": "Trying to Conceive",
+      "question": "How long should we try before seeing a fertility specialist?",
+      "answer": "If under 35: try for 12 months before consulting. If 35-39: try for 6 months. If over 40: consult after 3 months. Also see a specialist sooner if you have irregular cycles, known fertility issues, history of miscarriage, or your partner has potential fertility concerns.",
+      "source": "ASRM",
+      "tags": ["specialist", "when to consult", "age", "fertility evaluation"]
+    },
+    {
+      "id": "C3.2-011",
+      "subcategory": "Trying to Conceive",
+      "question": "What is preconception care?",
+      "answer": "Preconception care includes medical checks 3-6 months before trying to conceive: review of medications, vaccinations (rubella, chickenpox), dental health, blood tests, prenatal vitamins, lifestyle adjustments, and management of chronic conditions like diabetes or thyroid. It optimizes both pregnancy success and baby's health.",
+      "source": "ACOG",
+      "tags": ["preconception", "preparation", "medical checkup", "planning"]
+    },
+    {
+      "id": "C3.2-012",
+      "subcategory": "Trying to Conceive",
+      "question": "Can I get pregnant right after stopping birth control?",
+      "answer": "Yes, fertility can return immediately after stopping most birth control methods. With pills, patches, or rings, ovulation may resume within 1-2 cycles. With hormonal IUDs and implants, fertility returns quickly after removal. The Depo-Provera shot may delay return of fertility for 6-12 months.",
+      "source": "Planned Parenthood",
+      "tags": ["birth control", "fertility return", "stopping", "ovulation"]
+    },
+    {
+      "id": "C3.2-013",
+      "subcategory": "Trying to Conceive",
+      "question": "Does breastfeeding prevent pregnancy?",
+      "answer": "Exclusive breastfeeding can suppress ovulation in the first 6 months postpartum if specific criteria are met (no formula, frequent feedings, no period yet). This is called the Lactational Amenorrhea Method (LAM). It's 98% effective when conditions are strict. Once any criteria changes, fertility can return quickly.",
+      "source": "WHO",
+      "tags": ["breastfeeding", "LAM", "postpartum", "contraception"]
+    },
+    {
+      "id": "C3.2-014",
+      "subcategory": "Trying to Conceive",
+      "question": "Can certain foods boost fertility?",
+      "answer": "No single food guarantees fertility, but balanced nutrition supports it. Helpful foods include leafy greens, berries, whole grains, lean proteins, fatty fish (omega-3), nuts, and legumes. Mediterranean-style eating is linked to better fertility outcomes. Avoid heavily processed foods, trans fats, and excessive sugar.",
+      "source": "Mayo Clinic",
+      "tags": ["nutrition", "diet", "fertility foods", "Mediterranean"]
+    },
+    {
+      "id": "C3.2-015",
+      "subcategory": "Trying to Conceive",
+      "question": "Should we have sex every day to conceive?",
+      "answer": "No, every 1-2 days during the fertile window is ideal. Daily sex can slightly reduce sperm quality. Outside the fertile window, frequency matters less for conception. The goal is having sperm present when ovulation occurs, not maximum frequency. Quality of timing matters more than quantity.",
+      "source": "ASRM",
+      "tags": ["frequency", "sex", "conception", "myth"]
+    },
+    {
+      "id": "C3.3-001",
+      "subcategory": "Tracking Methods",
+      "question": "What is basal body temperature (BBT) tracking?",
+      "answer": "BBT is your body's temperature at complete rest, measured first thing in the morning before getting out of bed. After ovulation, progesterone causes a rise of 0.3-0.5°C, sustained until your next period. Tracking BBT confirms ovulation happened, though it doesn't predict it in advance.",
+      "source": "Mayo Clinic",
+      "tags": ["BBT", "basal body temperature", "tracking", "confirmation"]
+    },
+    {
+      "id": "C3.3-002",
+      "subcategory": "Tracking Methods",
+      "question": "How do ovulation predictor kits (OPKs) work?",
+      "answer": "OPKs detect the LH (luteinizing hormone) surge in your urine, which happens 24-36 hours before ovulation. A positive result means ovulation is coming soon — the best time for conception. Test daily starting 17-19 days before your expected next period, usually around 11 AM-3 PM.",
+      "source": "ACOG",
+      "tags": ["OPK", "LH surge", "predictor", "ovulation testing"]
+    },
+    {
+      "id": "C3.3-003",
+      "subcategory": "Tracking Methods",
+      "question": "What is the cervical mucus method?",
+      "answer": "This method tracks daily changes in cervical mucus to identify fertile days. After your period, mucus is dry or sticky. As ovulation approaches, it becomes creamy, then clear, stretchy, and slippery (like egg white). The 'peak' day of fertile mucus indicates ovulation is imminent.",
+      "source": "Cleveland Clinic",
+      "tags": ["cervical mucus method", "Billings", "natural", "fertility awareness"]
+    },
+    {
+      "id": "C3.3-004",
+      "subcategory": "Tracking Methods",
+      "question": "What is the symptothermal method?",
+      "answer": "The symptothermal method combines multiple fertility signs: BBT, cervical mucus changes, and sometimes cervix position. By cross-checking signs, it identifies the fertile window more accurately than any single method. With proper learning, it's 98% effective for avoiding pregnancy and helpful for conceiving.",
+      "source": "ASRM",
+      "tags": ["symptothermal", "natural family planning", "combined", "FAM"]
+    },
+    {
+      "id": "C3.3-005",
+      "subcategory": "Tracking Methods",
+      "question": "Are fertility tracking apps reliable?",
+      "answer": "App reliability varies. Calendar-based apps (predicting based on past cycles) are less accurate for irregular cycles. Apps that integrate BBT and OPK data are more reliable. No app replaces direct biological signs. For conception, apps are good helpers; for contraception, they require strict use of validated methods.",
+      "source": "ACOG",
+      "tags": ["apps", "reliability", "tracking", "fertility awareness"]
+    },
+    {
+      "id": "C3.3-006",
+      "subcategory": "Tracking Methods",
+      "question": "How do I take my basal body temperature correctly?",
+      "answer": "Use a digital BBT thermometer (more sensitive than regular). Take it first thing in the morning, before sitting up, talking, or drinking — at the same time every day. Take it orally for 1 minute. Record immediately. Disruptions (illness, alcohol, poor sleep) can affect accuracy.",
+      "source": "Mayo Clinic",
+      "tags": ["BBT measurement", "morning routine", "thermometer", "accuracy"]
+    },
+    {
+      "id": "C3.3-007",
+      "subcategory": "Tracking Methods",
+      "question": "What is the cervix position method?",
+      "answer": "Some women track cervix position as a fertility sign. Around ovulation, the cervix becomes Soft, High, Open, and Wet (SHOW). After ovulation and outside fertile times, it's firm, low, closed, and dry. This method requires practice and is usually combined with other signs.",
+      "source": "Cleveland Clinic",
+      "tags": ["cervix position", "SHOW", "fertility signs", "advanced"]
+    },
+    {
+      "id": "C3.3-008",
+      "subcategory": "Tracking Methods",
+      "question": "Can I use a regular thermometer for BBT?",
+      "answer": "It's best to use a dedicated BBT thermometer, which reads to two decimal places (e.g., 36.55°C). Regular fever thermometers only show one decimal and miss subtle BBT shifts. BBT thermometers cost a bit more but are essential for accurate tracking.",
+      "source": "ACOG",
+      "tags": ["BBT thermometer", "equipment", "accuracy", "tools"]
+    },
+    {
+      "id": "C3.3-009",
+      "subcategory": "Tracking Methods",
+      "question": "Do digital fertility monitors work?",
+      "answer": "Yes, devices like Clearblue Fertility Monitor measure hormones in urine to identify fertile and peak days. They're more user-friendly than manual tracking but cost more (device + test sticks monthly). They're useful for people who want technology to simplify ovulation tracking.",
+      "source": "ASRM",
+      "tags": ["fertility monitor", "digital", "technology", "hormone testing"]
+    },
+    {
+      "id": "C3.3-010",
+      "subcategory": "Tracking Methods",
+      "question": "How long should I track before relying on the data?",
+      "answer": "Track at least 3-6 cycles to establish reliable patterns, especially for natural fertility methods. Some methods (like symptothermal) require training before use. The more cycles you track, the more accurate your predictions and patterns become. Apps need this baseline data too.",
+      "source": "Cleveland Clinic",
+      "tags": ["tracking duration", "patterns", "reliability", "data"]
+    },
+    {
+      "id": "C3.4-001",
+      "subcategory": "Common Concerns",
+      "question": "What is PCOS and how does it affect fertility?",
+      "answer": "Polycystic Ovary Syndrome (PCOS) is a hormonal disorder affecting 1 in 10 women. It causes irregular or absent ovulation, making conception harder. Common signs include irregular periods, excess androgen hormones (acne, excess hair), and polycystic ovaries. PCOS is manageable, and many women with PCOS conceive with appropriate treatment.",
+      "source": "WHO",
+      "tags": ["PCOS", "infertility", "hormonal", "treatment"]
+    },
+    {
+      "id": "C3.4-002",
+      "subcategory": "Common Concerns",
+      "question": "What is endometriosis and does it cause infertility?",
+      "answer": "Endometriosis is when tissue similar to the uterine lining grows outside the uterus, causing pain and sometimes infertility. About 30-50% of women with endometriosis have fertility issues. Surgery to remove endometrial tissue, hormonal treatments, or assisted reproduction can help many conceive.",
+      "source": "WHO",
+      "tags": ["endometriosis", "infertility", "pain", "treatment"]
+    },
+    {
+      "id": "C3.4-003",
+      "subcategory": "Common Concerns",
+      "question": "What is unexplained infertility?",
+      "answer": "Unexplained infertility means standard fertility tests don't find a specific cause despite difficulty conceiving. It affects about 15-30% of couples seeking help. Causes may include subtle egg quality issues, mild endometriosis, or unidentified factors. Treatments like ovulation stimulation or IVF often succeed even without a clear diagnosis.",
+      "source": "ASRM",
+      "tags": ["unexplained", "infertility", "diagnosis", "treatment"]
+    },
+    {
+      "id": "C3.4-004",
+      "subcategory": "Common Concerns",
+      "question": "Can I still get pregnant if I have irregular periods?",
+      "answer": "Yes, many women with irregular cycles conceive, but it may take longer because predicting ovulation is harder. Tracking ovulation signs (BBT, cervical mucus, OPKs) is especially helpful. If cycles are very irregular or anovulatory, fertility treatments like ovulation induction can restore regular ovulation.",
+      "source": "Mayo Clinic",
+      "tags": ["irregular cycles", "fertility", "tracking", "anovulation"]
+    },
+    {
+      "id": "C3.4-005",
+      "subcategory": "Common Concerns",
+      "question": "How does smoking affect fertility?",
+      "answer": "Smoking significantly reduces fertility in both partners. It damages eggs, decreases ovarian reserve, accelerates menopause by 1-4 years, harms fallopian tubes, and reduces sperm quality. Quitting smoking improves fertility within a few months and is one of the most impactful lifestyle changes for conception.",
+      "source": "WHO",
+      "tags": ["smoking", "fertility", "lifestyle", "egg quality"]
+    },
+    {
+      "id": "C3.4-006",
+      "subcategory": "Common Concerns",
+      "question": "What is diminished ovarian reserve?",
+      "answer": "Diminished ovarian reserve means fewer eggs remain in the ovaries than expected for your age, or egg quality is reduced. It's diagnosed through tests like AMH (anti-Müllerian hormone) and antral follicle count. While natural conception is harder, fertility treatments can still succeed depending on individual factors.",
+      "source": "ASRM",
+      "tags": ["ovarian reserve", "AMH", "egg quantity", "fertility decline"]
+    },
+    {
+      "id": "C3.4-007",
+      "subcategory": "Common Concerns",
+      "question": "Can certain medications affect fertility?",
+      "answer": "Yes, some medications affect fertility: chemotherapy, certain antidepressants, NSAIDs (in high doses), steroids, some blood pressure drugs, and others. Always tell your doctor when planning to conceive — they can review and adjust medications. Never stop medication on your own without medical guidance.",
+      "source": "ACOG",
+      "tags": ["medications", "fertility", "preconception", "consultation"]
+    },
+    {
+      "id": "C3.4-008",
+      "subcategory": "Common Concerns",
+      "question": "Is it harder to get pregnant after a miscarriage?",
+      "answer": "Usually not. Most women conceive normally after a miscarriage. Many doctors recommend waiting at least one cycle to track your next period, but you can typically try again as soon as you feel ready emotionally and physically. After multiple miscarriages (2+), testing is recommended to find treatable causes.",
+      "source": "Mayo Clinic",
+      "tags": ["miscarriage", "conception after loss", "recovery", "timing"]
+    },
+    {
+      "id": "C3.4-009",
+      "subcategory": "Common Concerns",
+      "question": "Can stress prevent pregnancy?",
+      "answer": "Chronic severe stress can disrupt ovulation and reduce conception chances. However, mild everyday stress is unlikely to prevent pregnancy. Managing stress through exercise, sleep, mindfulness, or counseling supports overall fertility. Don't blame yourself — many women conceive during stressful periods too.",
+      "source": "Cleveland Clinic",
+      "tags": ["stress", "fertility", "mental health", "conception"]
+    },
+    {
+      "id": "C3.4-010",
+      "subcategory": "Common Concerns",
+      "question": "What are common fertility tests for women?",
+      "answer": "Common tests include: blood hormone panel (FSH, LH, AMH, thyroid, prolactin), pelvic ultrasound, hysterosalpingography (HSG) to check fallopian tubes, ovulation tracking, and sometimes laparoscopy. Tests are usually done at specific cycle days. Your partner will also have a semen analysis. Most testing takes 1-2 cycles.",
+      "source": "ASRM",
+      "tags": ["fertility tests", "diagnostic", "evaluation", "workup"]
+    },
+    {
+      "id": "C3.5-001",
+      "subcategory": "When to Consult",
+      "question": "When should I see a fertility specialist?",
+      "answer": "Consult a specialist if: under 35 and trying 12+ months, 35-39 and trying 6+ months, 40+ and trying 3 months. Also consult sooner if you have irregular periods, painful periods, history of miscarriage, pelvic surgery, known reproductive conditions, or your partner has known fertility issues.",
+      "source": "ASRM",
+      "tags": ["specialist", "consultation", "when", "fertility evaluation"]
+    },
+    {
+      "id": "C3.5-002",
+      "subcategory": "When to Consult",
+      "question": "What is the difference between a gynecologist and a fertility specialist?",
+      "answer": "A gynecologist provides general reproductive health care and can do initial fertility workup. A reproductive endocrinologist (fertility specialist) has additional training in infertility, hormonal disorders, and assisted reproduction. Specialists handle more complex cases, perform treatments like IVF, and have advanced diagnostic tools.",
+      "source": "ASRM",
+      "tags": ["gynecologist", "fertility specialist", "reproductive endocrinologist", "specialist"]
+    },
+    {
+      "id": "C3.5-003",
+      "subcategory": "When to Consult",
+      "question": "What is IVF and when is it recommended?",
+      "answer": "In Vitro Fertilization (IVF) involves stimulating egg production, retrieving eggs, fertilizing them with sperm in a lab, and transferring the embryo to the uterus. It's recommended for blocked fallopian tubes, severe male factor infertility, advanced maternal age, endometriosis, or unexplained infertility after other treatments fail.",
+      "source": "ASRM",
+      "tags": ["IVF", "in vitro", "assisted reproduction", "treatment"]
+    },
+    {
+      "id": "C3.5-004",
+      "subcategory": "When to Consult",
+      "question": "What other fertility treatments exist besides IVF?",
+      "answer": "Other treatments include: ovulation induction (medications like Clomid or Letrozole), intrauterine insemination (IUI), where prepared sperm is placed in the uterus, surgical correction of anatomical issues, hormone treatments, and lifestyle interventions. Treatment is tailored to the specific fertility cause.",
+      "source": "ACOG",
+      "tags": ["IUI", "Clomid", "ovulation induction", "treatments"]
+    },
+    {
+      "id": "C3.5-005",
+      "subcategory": "When to Consult",
+      "question": "How emotionally challenging is fertility treatment?",
+      "answer": "Fertility treatment can be emotionally intense — involving hope, disappointment, hormonal effects, financial stress, and time commitment. Many clinics offer counseling, and support groups help. It's normal to feel a range of emotions. Partner communication, mental health support, and self-care are essential throughout the journey.",
+      "source": "ASRM",
+      "tags": ["emotional health", "fertility treatment", "support", "mental health"]
+    }
+  ]
+}
