@@ -1,0 +1,332 @@
+{
+  "category": "Mental Health & Wellbeing",
+  "category_id": "C5",
+  "language": "en",
+  "total_questions": 40,
+  "target_questions": 40,
+  "sensitive_content": true,
+  "crisis_redirect_countries": ["US", "UK", "FR", "BE", "CA", "DRC"],
+  "sources_used": ["ACOG", "Mayo Clinic", "Cleveland Clinic", "NIH", "WHO", "NHS", "March of Dimes", "Office on Women's Health", "International Association for Women's Mental Health"],
+  "entries": [
+    {
+      "id": "C5.1-001",
+      "subcategory": "PMS & PMDD",
+      "question": "What is PMS?",
+      "answer": "Premenstrual Syndrome (PMS) is a combination of physical and emotional symptoms that appear in the 1-2 weeks before your period. Common symptoms include mood swings, irritability, bloating, fatigue, breast tenderness, and food cravings. About 75% of women experience some PMS. Symptoms usually resolve once your period starts.",
+      "source": "ACOG",
+      "tags": ["PMS", "premenstrual", "common", "symptoms"]
+    },
+    {
+      "id": "C5.1-002",
+      "subcategory": "PMS & PMDD",
+      "question": "What is PMDD and how is it different from PMS?",
+      "answer": "Premenstrual Dysphoric Disorder (PMDD) is a severe form of PMS affecting 3-8% of women. It causes intense emotional symptoms — depression, anxiety, anger, hopelessness — that significantly disrupt daily life, work, and relationships. Unlike regular PMS, PMDD often requires medical treatment. If you suspect PMDD, talk to a healthcare provider.",
+      "source": "ACOG",
+      "tags": ["PMDD", "severe PMS", "depression", "treatment"]
+    },
+    {
+      "id": "C5.1-003",
+      "subcategory": "PMS & PMDD",
+      "question": "How do I know if I have PMDD?",
+      "answer": "PMDD is suspected when severe mood symptoms appear during the luteal phase and disappear shortly after your period starts, for at least 2 consecutive cycles. Tracking symptoms across 2-3 cycles helps a doctor diagnose. Self-diagnosis isn't enough — professional evaluation is needed.",
+      "source": "Cleveland Clinic",
+      "tags": ["PMDD diagnosis", "symptoms", "tracking", "professional help"]
+    },
+    {
+      "id": "C5.1-004",
+      "subcategory": "PMS & PMDD",
+      "question": "What causes PMS and PMDD?",
+      "answer": "The exact cause isn't fully understood, but hormonal fluctuations after ovulation interact with brain chemicals like serotonin. Some women are more sensitive to these shifts. Genetics, stress, and lifestyle factors also play a role. PMDD isn't caused by being 'too emotional' — it's a real medical condition.",
+      "source": "NIH",
+      "tags": ["causes", "hormones", "serotonin", "genetics"]
+    },
+    {
+      "id": "C5.1-005",
+      "subcategory": "PMS & PMDD",
+      "question": "How can I manage PMS symptoms naturally?",
+      "answer": "Helpful approaches: regular exercise (30 min most days), balanced diet, reducing salt, sugar, caffeine, alcohol, prioritizing 7-9 hours of sleep, stress management (yoga, meditation, journaling), and calcium/magnesium/B6 supplements. Track symptoms to identify your patterns and triggers.",
+      "source": "Mayo Clinic",
+      "tags": ["PMS management", "lifestyle", "natural remedies", "self-care"]
+    },
+    {
+      "id": "C5.1-006",
+      "subcategory": "PMS & PMDD",
+      "question": "What medical treatments exist for severe PMS or PMDD?",
+      "answer": "Treatments include: SSRIs (antidepressants like sertraline or fluoxetine), hormonal contraceptives that suppress ovulation, calcium supplements, cognitive behavioral therapy (CBT), and lifestyle changes. Treatment is personalized — a doctor or gynecologist can help find what works for you.",
+      "source": "ACOG",
+      "tags": ["treatment", "SSRI", "contraceptives", "therapy"]
+    },
+    {
+      "id": "C5.1-007",
+      "subcategory": "PMS & PMDD",
+      "question": "Can PMS get worse with age?",
+      "answer": "PMS can change throughout life. Some women experience worsening symptoms in their 30s and 40s, especially approaching perimenopause when hormonal fluctuations intensify. Others find PMS improves after pregnancy or with lifestyle changes. If symptoms worsen significantly, talk to a doctor.",
+      "source": "Cleveland Clinic",
+      "tags": ["PMS changes", "age", "perimenopause", "evolution"]
+    },
+    {
+      "id": "C5.1-008",
+      "subcategory": "PMS & PMDD",
+      "question": "Why do I feel like crying for no reason before my period?",
+      "answer": "Sudden tearfulness before your period is a common PMS symptom. Dropping estrogen affects serotonin, the brain chemical that regulates mood. Your emotions are real — the trigger is your hormones, not weakness. Self-compassion, rest, and grounding techniques help. If extreme or disruptive, talk to a doctor about PMDD.",
+      "source": "NIH",
+      "tags": ["tearfulness", "emotions", "serotonin", "mood"]
+    },
+    {
+      "id": "C5.1-009",
+      "subcategory": "PMS & PMDD",
+      "question": "Can PMS affect my relationships and work?",
+      "answer": "Yes, PMS and especially PMDD can strain relationships, reduce work productivity, and affect concentration. Telling close people you trust helps them understand. Plan demanding tasks for non-PMS days when possible. Treatment significantly improves daily functioning.",
+      "source": "ACOG",
+      "tags": ["relationships", "work", "impact", "daily life"]
+    },
+    {
+      "id": "C5.1-010",
+      "subcategory": "PMS & PMDD",
+      "question": "When should I see a doctor about PMS?",
+      "answer": "See a doctor if: symptoms significantly affect your daily life, work, or relationships; you have severe depression, anxiety, or thoughts of self-harm during the luteal phase; lifestyle changes don't help; or symptoms worsen over time. PMS shouldn't be dismissed when it's seriously affecting your life. Help is available.",
+      "source": "Mayo Clinic",
+      "tags": ["when to consult", "doctor", "warning signs", "treatment"]
+    },
+    {
+      "id": "C5.2-001",
+      "subcategory": "Mood & Cycle",
+      "question": "Why does my mood change throughout my menstrual cycle?",
+      "answer": "Mood shifts across the cycle are driven by changing hormone levels. Estrogen rises in the first half (boosting mood), peaks at ovulation, then drops during the luteal phase along with progesterone. These shifts affect serotonin and other brain chemicals. Many women notice patterns once they track.",
+      "source": "NIH",
+      "tags": ["mood swings", "hormones", "cycle phases", "serotonin"]
+    },
+    {
+      "id": "C5.2-002",
+      "subcategory": "Mood & Cycle",
+      "question": "Why do I feel anxious before my period?",
+      "answer": "Premenstrual anxiety is common, caused by the drop in estrogen and progesterone in the luteal phase. This affects GABA and serotonin — brain chemicals that calm anxiety. Deep breathing, grounding exercises, exercise, and reducing caffeine can help. Severe anxiety may indicate PMDD.",
+      "source": "ACOG",
+      "tags": ["anxiety", "premenstrual", "luteal phase", "GABA"]
+    },
+    {
+      "id": "C5.2-003",
+      "subcategory": "Mood & Cycle",
+      "question": "Is it normal to feel really irritable before my period?",
+      "answer": "Yes, irritability is one of the most reported PMS symptoms. Hormonal shifts make you more sensitive to triggers. Recognizing this pattern helps. Try to schedule demanding interactions outside the luteal phase, communicate your needs, and allow yourself extra patience and rest.",
+      "source": "Mayo Clinic",
+      "tags": ["irritability", "PMS", "luteal phase", "self-awareness"]
+    },
+    {
+      "id": "C5.2-004",
+      "subcategory": "Mood & Cycle",
+      "question": "Why do I feel so sad during certain parts of my cycle?",
+      "answer": "Cyclic sadness usually occurs in the luteal phase when estrogen and progesterone drop. This affects serotonin. The sadness is real but typically resolves when your period starts. If sadness is severe, persistent, or includes hopelessness, it may be PMDD or depression — please talk to a healthcare provider.",
+      "source": "NIH",
+      "tags": ["sadness", "luteal phase", "serotonin", "depression"]
+    },
+    {
+      "id": "C5.2-005",
+      "subcategory": "Mood & Cycle",
+      "question": "Can my menstrual cycle affect my energy levels?",
+      "answer": "Yes, energy fluctuates with hormones. Energy is typically highest around ovulation (when estrogen peaks), and lowest during the period and late luteal phase. Many women feel a boost in the follicular phase. Honoring these natural rhythms supports wellbeing.",
+      "source": "Cleveland Clinic",
+      "tags": ["energy", "cycle phases", "rhythm", "self-awareness"]
+    },
+    {
+      "id": "C5.2-006",
+      "subcategory": "Mood & Cycle",
+      "question": "Does my cycle affect my sleep?",
+      "answer": "Yes, sleep often changes across the cycle. Many women experience trouble sleeping in the late luteal phase and during the first days of their period. Caused by hormonal shifts, body temperature changes, cramps, or anxiety. Good sleep hygiene helps: regular schedule, cool room, no screens before bed.",
+      "source": "NIH",
+      "tags": ["sleep", "insomnia", "luteal phase", "hormones"]
+    },
+    {
+      "id": "C5.2-007",
+      "subcategory": "Mood & Cycle",
+      "question": "Is brain fog around my period normal?",
+      "answer": "Yes, many women experience brain fog, forgetfulness, or trouble concentrating in the luteal phase or during their period. Hormonal shifts affect cognition temporarily. It usually improves after your period. Schedule complex tasks for higher-energy phases, get enough sleep, and stay hydrated.",
+      "source": "Cleveland Clinic",
+      "tags": ["brain fog", "concentration", "cognition", "cycle"]
+    },
+    {
+      "id": "C5.2-008",
+      "subcategory": "Mood & Cycle",
+      "question": "How can I track my mood throughout my cycle?",
+      "answer": "Daily mood tracking helps you see patterns. Note: mood (1-10), energy, sleep quality, key emotions, and cycle day. Apps like ARIELA make this easier. After 2-3 cycles, you'll see your unique patterns. This information is invaluable for self-awareness and medical conversations.",
+      "source": "ACOG",
+      "tags": ["mood tracking", "patterns", "self-awareness", "apps"]
+    },
+    {
+      "id": "C5.2-009",
+      "subcategory": "Mood & Cycle",
+      "question": "Can my cycle make my existing anxiety or depression worse?",
+      "answer": "Yes. Many women with pre-existing anxiety, depression, or other mental health conditions notice their symptoms worsen in the luteal phase — called 'premenstrual exacerbation.' This is important to discuss with your mental health provider, as treatment may need adjustment during specific cycle phases.",
+      "source": "NIH",
+      "tags": ["premenstrual exacerbation", "anxiety", "depression", "treatment"]
+    },
+    {
+      "id": "C5.2-010",
+      "subcategory": "Mood & Cycle",
+      "question": "How can I be kinder to myself during difficult cycle phases?",
+      "answer": "Self-compassion matters. Recognize that mood and energy shifts are biological, not character flaws. Plan rest, gentle activities, and self-care during low-energy times. Communicate your needs to people you trust. Don't make major life decisions in the worst phases. This difficult feeling will pass.",
+      "source": "Mayo Clinic",
+      "tags": ["self-compassion", "self-care", "wellbeing", "patience"]
+    },
+    {
+      "id": "C5.3-001",
+      "subcategory": "Perinatal Mental Health",
+      "question": "What are the baby blues?",
+      "answer": "The 'baby blues' affect up to 80% of new mothers in the first 1-2 weeks after birth. Symptoms include mood swings, tearfulness, anxiety, irritability, and feeling overwhelmed. They're caused by hormonal shifts, sleep deprivation, and the emotional intensity of becoming a parent. Baby blues typically resolve within 2 weeks. If symptoms persist or worsen, it may be postpartum depression — talk to a doctor.",
+      "source": "ACOG",
+      "tags": ["baby blues", "postpartum", "new mothers", "first weeks"]
+    },
+    {
+      "id": "C5.3-002",
+      "subcategory": "Perinatal Mental Health",
+      "question": "What is postpartum depression?",
+      "answer": "Postpartum depression (PPD) affects about 1 in 7 mothers. Unlike baby blues, it's more severe and lasts longer than 2 weeks. Symptoms include deep sadness, hopelessness, withdrawal from baby and others, difficulty bonding, intense anxiety, sleep issues unrelated to baby, and sometimes thoughts of harm. PPD is a medical condition, not a personal failure. It responds well to treatment — please reach out to a healthcare provider.",
+      "source": "WHO",
+      "tags": ["postpartum depression", "PPD", "treatment", "support"]
+    },
+    {
+      "id": "C5.3-003",
+      "subcategory": "Perinatal Mental Health",
+      "question": "How do I know if I have postpartum depression?",
+      "answer": "Signs include: persistent sadness lasting more than 2 weeks after birth, loss of interest in things you used to enjoy, severe fatigue beyond normal new-parent tiredness, feelings of guilt or worthlessness, intense anxiety, trouble bonding with baby, changes in appetite or sleep, or thoughts of harming yourself or baby. Online screening tools exist, but a doctor's evaluation is essential. Please don't wait — early treatment helps faster recovery.",
+      "source": "ACOG",
+      "tags": ["PPD symptoms", "screening", "evaluation", "warning signs"]
+    },
+    {
+      "id": "C5.3-004",
+      "subcategory": "Perinatal Mental Health",
+      "question": "Can I get depression during pregnancy?",
+      "answer": "Yes. Depression during pregnancy (antenatal depression) affects 10-20% of women. Hormonal changes, physical discomfort, life stressors, and history of mental health conditions increase risk. Symptoms include persistent sadness, anxiety, sleep problems, and loss of pleasure. Pregnancy depression is treatable — psychotherapy and certain medications are safe options. Talk to your prenatal provider openly.",
+      "source": "Mayo Clinic",
+      "tags": ["antenatal depression", "pregnancy", "prenatal mental health", "treatment"]
+    },
+    {
+      "id": "C5.3-005",
+      "subcategory": "Perinatal Mental Health",
+      "question": "What is postpartum anxiety?",
+      "answer": "Postpartum anxiety affects up to 1 in 5 new mothers, sometimes alongside depression. Symptoms include racing thoughts, constant worry (especially about baby's safety), difficulty sleeping when baby sleeps, physical tension, panic attacks, and feeling on edge. It's distinct from PPD but equally important to address. Therapy (especially CBT) and sometimes medication help significantly.",
+      "source": "Cleveland Clinic",
+      "tags": ["postpartum anxiety", "worry", "panic", "treatment"]
+    },
+    {
+      "id": "C5.3-006",
+      "subcategory": "Perinatal Mental Health",
+      "question": "What is postpartum psychosis?",
+      "answer": "Postpartum psychosis is a rare but serious medical emergency (1-2 per 1000 births). Symptoms include hallucinations, delusions, severe confusion, paranoia, rapid mood swings, and inability to sleep. It usually appears in the first 2 weeks after birth. This requires immediate medical attention — contact emergency services or go to a hospital. With treatment, women recover fully.",
+      "source": "WHO",
+      "tags": ["postpartum psychosis", "emergency", "rare", "immediate care"]
+    },
+    {
+      "id": "C5.3-007",
+      "subcategory": "Perinatal Mental Health",
+      "question": "Why don't I feel bonded to my baby?",
+      "answer": "Not feeling instant connection with your baby is more common than people admit — and it doesn't make you a bad parent. Bonding can take days, weeks, or months. Postpartum depression, traumatic birth, exhaustion, or simply different parent personalities can delay bonding. Skin-to-skin contact, talking to baby, and getting support help. If feelings of disconnection persist, talk to a provider — it could signal PPD.",
+      "source": "March of Dimes",
+      "tags": ["bonding", "attachment", "guilt", "new parents"]
+    },
+    {
+      "id": "C5.3-008",
+      "subcategory": "Perinatal Mental Health",
+      "question": "Can I take antidepressants while pregnant or breastfeeding?",
+      "answer": "Some antidepressants (especially certain SSRIs) are considered safe during pregnancy and breastfeeding, with risks far outweighed by benefits when depression is significant. Untreated maternal depression also carries risks for mother and baby. Decisions should be made with both a psychiatrist and obstetrician — they balance risks and benefits based on your specific situation.",
+      "source": "ACOG",
+      "tags": ["antidepressants", "pregnancy", "breastfeeding", "safety"]
+    },
+    {
+      "id": "C5.3-009",
+      "subcategory": "Perinatal Mental Health",
+      "question": "How long does postpartum depression last?",
+      "answer": "Without treatment, PPD can last months or years. With treatment (therapy, medication, support groups), most women feel significantly better within 6-12 weeks and fully recover within months. Early intervention leads to faster recovery. Recovery isn't linear — some days are harder than others. Be patient with yourself and trust the process.",
+      "source": "WHO",
+      "tags": ["PPD duration", "recovery", "treatment", "timeline"]
+    },
+    {
+      "id": "C5.3-010",
+      "subcategory": "Perinatal Mental Health",
+      "question": "What support can help with postpartum mental health?",
+      "answer": "Helpful support includes: professional therapy (especially CBT or interpersonal therapy), medication when appropriate, postpartum support groups (in-person or online), partner involvement, family help with baby care, prioritizing sleep when possible, gentle exercise, and connecting with other new mothers. You don't have to do this alone — reaching out is a sign of strength, not weakness.",
+      "source": "Office on Women's Health",
+      "tags": ["support", "therapy", "groups", "self-care"]
+    },
+    {
+      "id": "C5.4-001",
+      "subcategory": "Body Image & Self-esteem",
+      "question": "Why does my body image feel worse during my period?",
+      "answer": "Hormonal shifts, water retention, bloating, breast tenderness, acne, and lower energy can all contribute to feeling less comfortable in your body during your period. These changes are temporary and don't reflect your 'real' body. Self-compassion, comfortable clothing, gentle movement, and reminding yourself this is biological — not personal — help reframe these moments.",
+      "source": "NIH",
+      "tags": ["body image", "period", "self-compassion", "bloating"]
+    },
+    {
+      "id": "C5.4-002",
+      "subcategory": "Body Image & Self-esteem",
+      "question": "Is it normal to feel less confident at certain cycle phases?",
+      "answer": "Yes. Confidence often peaks around ovulation (when estrogen is high) and dips in the luteal phase or during the period. This is biological and temporary. Knowing your patterns helps — important presentations, photos, or social events can be planned for higher-confidence phases when possible. And on lower-confidence days, kindness to yourself matters most.",
+      "source": "Cleveland Clinic",
+      "tags": ["confidence", "cycle phases", "self-esteem", "planning"]
+    },
+    {
+      "id": "C5.4-003",
+      "subcategory": "Body Image & Self-esteem",
+      "question": "How does pregnancy affect body image?",
+      "answer": "Pregnancy brings rapid body changes that can be both wondrous and challenging. Some women feel beautiful and powerful; others struggle with weight gain, stretch marks, or feeling 'not themselves.' Both experiences are valid. Surround yourself with body-positive content, wear clothes that feel good, and seek support if body image distress affects your daily life.",
+      "source": "March of Dimes",
+      "tags": ["pregnancy body image", "changes", "acceptance", "support"]
+    },
+    {
+      "id": "C5.4-004",
+      "subcategory": "Body Image & Self-esteem",
+      "question": "How do I cope with postpartum body changes?",
+      "answer": "Your body did extraordinary work creating and birthing a baby. Healing takes time — typically months, not weeks. Stretch marks, soft belly, weight changes, and other shifts are normal. Focus on what your body did (strength, life), not how it looks. Eat nourishing food, move gently, sleep when possible. Avoid comparing to celebrity 'snap back' images — those aren't reality. Be patient and kind.",
+      "source": "ACOG",
+      "tags": ["postpartum body", "recovery", "self-acceptance", "healing"]
+    },
+    {
+      "id": "C5.4-005",
+      "subcategory": "Body Image & Self-esteem",
+      "question": "When does body image distress become a concern?",
+      "answer": "Body image concerns become serious when they: lead to disordered eating (restricting, binging, purging, obsessive exercise), cause severe daily distress, lead to avoiding important activities, or include thoughts of self-harm. If body image distress is affecting your quality of life, please talk to a doctor or therapist. Body dysmorphia and eating disorders are treatable conditions.",
+      "source": "NIH",
+      "tags": ["body dysmorphia", "eating disorders", "warning signs", "treatment"]
+    },
+    {
+      "id": "C5.5-001",
+      "subcategory": "Crisis & Safety",
+      "question": "I'm having thoughts of hurting myself. What do I do?",
+      "answer": "I hear you, and what you're feeling is real. Please reach out for help right now. You don't have to face this alone. Call or text a crisis line — they're confidential, free, and trained to help. United States: 988. United Kingdom: 116 123 (Samaritans). France: 3114. Belgium: 1813. Canada: 9-8-8. DR Congo: contact your nearest hospital emergency. If you're in immediate danger, go to your nearest emergency room or call your local emergency number. Your life matters.",
+      "source": "Crisis hotlines (international)",
+      "tags": ["crisis", "self-harm", "hotlines", "emergency"]
+    },
+    {
+      "id": "C5.5-002",
+      "subcategory": "Crisis & Safety",
+      "question": "I'm having thoughts of hurting my baby. Am I a bad mother?",
+      "answer": "No, you are not a bad mother. Intrusive thoughts about harm — especially in postpartum — affect many women and are a known symptom of perinatal mental health conditions. Having these thoughts doesn't mean you'll act on them. But please reach out to a healthcare provider or crisis line immediately. This is treatable, and you and your baby will be safer with help. United States: 988. United Kingdom: 116 123. France: 3114. Belgium: 1813. Canada: 9-8-8. Talk to someone today.",
+      "source": "WHO",
+      "tags": ["intrusive thoughts", "postpartum", "crisis", "hotlines"]
+    },
+    {
+      "id": "C5.5-003",
+      "subcategory": "Crisis & Safety",
+      "question": "When is severe sadness or anxiety an emergency?",
+      "answer": "Seek immediate help (emergency room or crisis line) if you: have specific thoughts or plans to harm yourself or others, are hearing voices or seeing things others don't, feel completely disconnected from reality, can't take care of yourself or your baby, or have severe sudden mental status changes. Crisis lines: US 988, UK 116 123, France 3114, Belgium 1813, Canada 9-8-8. These services are free, confidential, and there for you.",
+      "source": "WHO",
+      "tags": ["mental health emergency", "warning signs", "crisis", "hotlines"]
+    },
+    {
+      "id": "C5.5-004",
+      "subcategory": "Crisis & Safety",
+      "question": "How do I find a therapist or psychiatrist?",
+      "answer": "Start with your primary care doctor or OB/GYN — they can refer you. Online directories like Psychology Today, Therapist Aid, or your country's professional associations list licensed therapists. Many therapists offer online sessions. If cost is a barrier, look for community mental health centers, sliding-scale fees, or telehealth platforms. In urgent need, your local hospital's mental health department can help find care.",
+      "source": "Office on Women's Health",
+      "tags": ["finding therapist", "psychiatrist", "referral", "resources"]
+    },
+    {
+      "id": "C5.5-005",
+      "subcategory": "Crisis & Safety",
+      "question": "How can I support someone I'm worried about?",
+      "answer": "Listen without judgment, take their feelings seriously, and don't dismiss their pain. Ask directly if they're thinking of harming themselves — asking doesn't plant the idea, it shows care. Help them connect to professional support: offer to call a crisis line together (US 988, UK 116 123, France 3114, Belgium 1813, Canada 9-8-8), accompany them to a doctor, or stay with them until help arrives. Don't promise secrecy if their safety is at risk.",
+      "source": "WHO",
+      "tags": ["supporting others", "loved ones", "crisis intervention", "listening"]
+    }
+  ]
+}
