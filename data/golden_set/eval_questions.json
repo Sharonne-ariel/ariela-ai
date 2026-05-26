@@ -1,0 +1,169 @@
+{
+  "name": "ARIELA Golden Evaluation Set",
+  "description": "20 reformulated questions to evaluate RAG retrieval quality across all 5 categories",
+  "total_questions": 20,
+  "language": "en",
+  "entries": [
+    {
+      "id": "EVAL-001",
+      "category": "Menstrual Cycle",
+      "question": "How many days should my cycle last?",
+      "expected_answer_id": "C1.1-002",
+      "expected_topic": "Normal cycle length 21-35 days",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-002",
+      "category": "Menstrual Cycle",
+      "question": "My period came late this month, should I worry?",
+      "expected_answer_id": "C1.3-002",
+      "expected_topic": "Causes of late period",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-003",
+      "category": "Menstrual Cycle",
+      "question": "What can I do at home to stop period cramps?",
+      "expected_answer_id": "C1.4-003",
+      "expected_topic": "Natural cramp relief",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-004",
+      "category": "Menstrual Cycle",
+      "question": "Could my missed periods be from working out too much?",
+      "expected_answer_id": "C1.3-008",
+      "expected_topic": "Exercise and amenorrhea",
+      "difficulty": "medium"
+    },
+    {
+      "id": "First Period",
+      "id": "EVAL-005",
+      "category": "First Period",
+      "question": "I'm 12 and haven't started my period yet, is that ok?",
+      "expected_answer_id": "C2.1-002",
+      "expected_topic": "Normal age range for menarche",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-006",
+      "category": "First Period",
+      "question": "I started bleeding at school and don't have anything, what do I do?",
+      "expected_answer_id": "C2.2-006",
+      "expected_topic": "Handling period at school",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-007",
+      "category": "First Period",
+      "question": "I'm so embarrassed about getting my period, is that normal?",
+      "expected_answer_id": "C2.3-006",
+      "expected_topic": "Shame and stigma",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-008",
+      "category": "First Period",
+      "question": "Can I do gym class while on my period?",
+      "expected_answer_id": "C2.2-005",
+      "expected_topic": "Sports during period",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-009",
+      "category": "Fertility",
+      "question": "When am I most likely to get pregnant in my cycle?",
+      "expected_answer_id": "C3.1-002",
+      "expected_topic": "Fertile window",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-010",
+      "category": "Fertility",
+      "question": "How do I know if I'm ovulating without buying tests?",
+      "expected_answer_id": "C3.1-004",
+      "expected_topic": "Signs of ovulation",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-011",
+      "category": "Fertility",
+      "question": "We've been trying for a baby for 8 months, should I see a doctor?",
+      "expected_answer_id": "C3.5-001",
+      "expected_topic": "When to see fertility specialist",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-012",
+      "category": "Fertility",
+      "question": "Does coffee make it harder to get pregnant?",
+      "expected_answer_id": "C3.2-006",
+      "expected_topic": "Caffeine and fertility",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-013",
+      "category": "Pregnancy",
+      "question": "I'm feeling really nauseous in the morning, what helps?",
+      "expected_answer_id": "C4.2-002",
+      "expected_topic": "Morning sickness remedies",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-014",
+      "category": "Pregnancy",
+      "question": "What foods are dangerous when pregnant?",
+      "expected_answer_id": "C4.4-001",
+      "expected_topic": "Foods to avoid in pregnancy",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-015",
+      "category": "Pregnancy",
+      "question": "When can I take a test to know if I'm pregnant?",
+      "expected_answer_id": "C4.1-002",
+      "expected_topic": "Pregnancy test timing",
+      "difficulty": "easy"
+    },
+    {
+      "id": "EVAL-016",
+      "category": "Pregnancy",
+      "question": "How will I recognize I'm starting labor?",
+      "expected_answer_id": "C4.2-012",
+      "expected_topic": "Signs of labor",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-017",
+      "category": "Mental Health",
+      "question": "Why am I so sad and crying every month before my period?",
+      "expected_answer_id": "C5.1-008",
+      "expected_topic": "Premenstrual tearfulness",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-018",
+      "category": "Mental Health",
+      "question": "I had my baby 3 months ago and I'm still feeling really down, is this normal?",
+      "expected_answer_id": "C5.3-002",
+      "expected_topic": "Postpartum depression",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-019",
+      "category": "Mental Health",
+      "question": "How do I find someone to talk to about my mental health?",
+      "expected_answer_id": "C5.5-004",
+      "expected_topic": "Finding a therapist",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVAL-020",
+      "category": "Mental Health",
+      "question": "I'm having dark thoughts and don't know what to do",
+      "expected_answer_id": "C5.5-001",
+      "expected_topic": "Crisis support and hotlines",
+      "difficulty": "hard"
+    }
+  ]
+}
