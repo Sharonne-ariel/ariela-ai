@@ -1,0 +1,331 @@
+{
+  "category": "First Period",
+  "category_id": "C2",
+  "language": "en",
+  "total_questions": 35,
+  "target_questions": 35,
+  "audience": "Pre-teens and teenagers (10-16 years old), age-appropriate tone",
+  "sources_used": ["Mayo Clinic", "ACOG", "Cleveland Clinic", "NHS", "Planned Parenthood", "Office on Women's Health", "AAP", "KidsHealth"],
+  "entries": [
+    {
+      "id": "C2.1-001",
+      "subcategory": "Preparation",
+      "question": "What is my first period?",
+      "answer": "Your first period (called menarche) is when blood starts coming from your vagina for the first time. It means your body is growing up and your reproductive system is working. It's a totally normal and healthy part of becoming a woman. Almost every girl in the world goes through this.",
+      "source": "KidsHealth",
+      "tags": ["first period", "menarche", "basics", "growing up"]
+    },
+    {
+      "id": "C2.1-002",
+      "subcategory": "Preparation",
+      "question": "At what age will I get my first period?",
+      "answer": "Most girls get their first period between ages 10 and 15, with 12 being the average. Some start at 9, others at 16 — both are completely normal. Your body has its own timing. If you haven't started by age 16, it's a good idea to talk to a doctor.",
+      "source": "Mayo Clinic",
+      "tags": ["age", "menarche", "puberty", "timing"]
+    },
+    {
+      "id": "C2.1-003",
+      "subcategory": "Preparation",
+      "question": "What signs tell me my first period is coming soon?",
+      "answer": "Some signs that your first period is approaching: your breasts have started developing (usually 2 years before), you've noticed hair under your arms or in your pubic area, and you may see a clear or white discharge in your underwear. You might also feel mood changes or tiredness.",
+      "source": "AAP",
+      "tags": ["signs", "puberty", "preparation", "discharge"]
+    },
+    {
+      "id": "C2.1-004",
+      "subcategory": "Preparation",
+      "question": "What does period blood look like?",
+      "answer": "Period blood can range from bright red to dark brown. At the start it might be light pink or brownish, then become brighter red, and finally darker again. The color and texture can change throughout your period. All of this is normal.",
+      "source": "Cleveland Clinic",
+      "tags": ["blood color", "flow", "appearance", "normal"]
+    },
+    {
+      "id": "C2.1-005",
+      "subcategory": "Preparation",
+      "question": "How long will my first period last?",
+      "answer": "Your first period might be short (just 2-3 days) and light. Some girls only have spotting. As you grow, your periods will become more regular and might last 3-7 days. Don't worry if your first period is different from what you expected — every body is different.",
+      "source": "ACOG",
+      "tags": ["duration", "first period", "light flow", "spotting"]
+    },
+    {
+      "id": "C2.1-006",
+      "subcategory": "Preparation",
+      "question": "Will I have my period every month right away?",
+      "answer": "Not necessarily. During the first 1-2 years, periods can be irregular — sometimes early, sometimes late, sometimes skipping months. This is because your body is still learning. Your cycle will become more regular over time, usually by age 16-18.",
+      "source": "AAP",
+      "tags": ["irregular", "teenagers", "first year", "patterns"]
+    },
+    {
+      "id": "C2.1-007",
+      "subcategory": "Preparation",
+      "question": "How can I prepare for my first period?",
+      "answer": "Keep a small pouch in your school bag with 2-3 pads, a pair of clean underwear, and maybe some tissues. Talk to a parent, older sister, or trusted adult about it. Knowing it can happen anytime helps you feel ready rather than surprised.",
+      "source": "Office on Women's Health",
+      "tags": ["preparation", "school", "supplies", "ready"]
+    },
+    {
+      "id": "C2.1-008",
+      "subcategory": "Preparation",
+      "question": "Will my first period hurt?",
+      "answer": "Some girls have mild cramps during their first period, others don't feel anything special. Cramps feel like a dull pain or pressure in your lower belly. If you have pain, a warm pad on your belly or a warm drink can help. Strong pain is not normal — tell an adult.",
+      "source": "KidsHealth",
+      "tags": ["pain", "cramps", "first period", "comfort"]
+    },
+    {
+      "id": "C2.1-009",
+      "subcategory": "Preparation",
+      "question": "What is discharge and why am I seeing it in my underwear?",
+      "answer": "Discharge is a clear or whitish fluid that comes from your vagina. It's a healthy sign that your body is working normally. Discharge usually starts a few months to a year before your first period. It helps keep your vagina clean and healthy.",
+      "source": "Cleveland Clinic",
+      "tags": ["discharge", "vaginal", "normal", "puberty"]
+    },
+    {
+      "id": "C2.1-010",
+      "subcategory": "Preparation",
+      "question": "Why do girls get periods but boys don't?",
+      "answer": "People who are assigned female at birth have a uterus and ovaries — organs that prepare each month for a possible pregnancy. When pregnancy doesn't happen, the body sheds the uterus lining as menstrual blood. People assigned male at birth don't have a uterus, so they don't have periods.",
+      "source": "Planned Parenthood",
+      "tags": ["biology", "uterus", "reproductive system", "difference"]
+    },
+    {
+      "id": "C2.2-001",
+      "subcategory": "Practical",
+      "question": "What's the difference between a pad and a tampon?",
+      "answer": "A pad sticks inside your underwear and absorbs blood as it leaves your body. A tampon is inserted inside the vagina and absorbs blood internally. Pads are easier for beginners — most girls start with pads. Tampons take some practice and aren't necessary for your first periods.",
+      "source": "Office on Women's Health",
+      "tags": ["pads", "tampons", "products", "choice"]
+    },
+    {
+      "id": "C2.2-002",
+      "subcategory": "Practical",
+      "question": "How do I use a pad?",
+      "answer": "1. Wash your hands. 2. Unwrap the pad. 3. Peel off the paper covering the sticky side. 4. Stick the pad to the inside of your underwear, sticky side down. 5. If it has wings, fold them under the underwear. 6. Pull your underwear up. Change every 4-6 hours.",
+      "source": "KidsHealth",
+      "tags": ["pad", "how to", "instructions", "beginners"]
+    },
+    {
+      "id": "C2.2-003",
+      "subcategory": "Practical",
+      "question": "How often should I change my pad?",
+      "answer": "Change your pad every 4-6 hours during the day, or sooner if it feels full. Even if your flow is light, change at least 3-4 times a day for hygiene. Wrap the used pad in toilet paper and put it in the trash — never flush it in the toilet.",
+      "source": "Office on Women's Health",
+      "tags": ["pad", "changing", "hygiene", "frequency"]
+    },
+    {
+      "id": "C2.2-004",
+      "subcategory": "Practical",
+      "question": "Can I go swimming when I have my period?",
+      "answer": "Yes! With a tampon or menstrual cup, you can swim normally. Pads don't work in water. If you're not using tampons yet, you can wait for a lighter day or skip swimming. The water won't make you bleed more — but blood may show on the surface as you exit.",
+      "source": "ACOG",
+      "tags": ["swimming", "activities", "tampons", "sports"]
+    },
+    {
+      "id": "C2.2-005",
+      "subcategory": "Practical",
+      "question": "Can I do sports during my period?",
+      "answer": "Absolutely! Exercise during your period is healthy and can even help with cramps. Wear a comfortable pad, tampon, or period underwear. Listen to your body — if you're really tired or have strong cramps, take it easy. Otherwise, do all your usual activities.",
+      "source": "AAP",
+      "tags": ["sports", "exercise", "activity", "movement"]
+    },
+    {
+      "id": "C2.2-006",
+      "subcategory": "Practical",
+      "question": "What if my period starts at school?",
+      "answer": "Don't panic — it happens to many girls! Go to the bathroom and check. If you have a pad, use it. If not, ask the school nurse or a female teacher; they usually have supplies. Wrap toilet paper around your underwear as a temporary solution if needed. Call a parent if you want to go home.",
+      "source": "KidsHealth",
+      "tags": ["school", "emergency", "help", "nurse"]
+    },
+    {
+      "id": "C2.2-007",
+      "subcategory": "Practical",
+      "question": "What if I bleed through my clothes?",
+      "answer": "It happens to most girls at some point — it's not embarrassing, it's just a small accident. Tie a sweater or jacket around your waist if you need to walk to a bathroom. Change into clean underwear and pad. Clothes stained with blood can usually be cleaned with cold water and laundry soap.",
+      "source": "Office on Women's Health",
+      "tags": ["leaks", "accidents", "stain removal", "clothing"]
+    },
+    {
+      "id": "C2.2-008",
+      "subcategory": "Practical",
+      "question": "Can I take a bath or shower during my period?",
+      "answer": "Yes, and it's actually a great idea! Warm water can help relieve cramps and helps you feel clean. You don't need to wear anything in the bath. After, just put on a fresh pad. Daily showers during your period are recommended for comfort and hygiene.",
+      "source": "Cleveland Clinic",
+      "tags": ["bath", "shower", "hygiene", "comfort"]
+    },
+    {
+      "id": "C2.2-009",
+      "subcategory": "Practical",
+      "question": "Can I sleep with a pad on?",
+      "answer": "Yes! Use a longer, more absorbent night pad to avoid leaks while you sleep. Put down a towel on your sheets the first few periods to prevent stains. In the morning, change your pad right away. Avoid sleeping with a tampon for safety reasons — change before bed.",
+      "source": "Office on Women's Health",
+      "tags": ["sleeping", "night pad", "leaks", "safety"]
+    },
+    {
+      "id": "C2.2-010",
+      "subcategory": "Practical",
+      "question": "Will my friends know I have my period?",
+      "answer": "No! Pads and tampons aren't visible through clothes. No one can tell you have your period unless you tell them. You might feel like everyone knows because you're aware of it, but they really don't. Wear what you normally wear and go about your day.",
+      "source": "KidsHealth",
+      "tags": ["privacy", "discretion", "confidence", "social"]
+    },
+    {
+      "id": "C2.2-011",
+      "subcategory": "Practical",
+      "question": "What should I keep in my school bag?",
+      "answer": "A small pouch with: 2-3 pads (regular size), one pair of clean underwear, a few tissues, and a small plastic bag for used pads if there's no trash nearby. Optionally: a small snack and a pain reliever (if a parent agrees). Being prepared makes you feel confident.",
+      "source": "Office on Women's Health",
+      "tags": ["school bag", "supplies", "preparation", "kit"]
+    },
+    {
+      "id": "C2.2-012",
+      "subcategory": "Practical",
+      "question": "How do I dispose of a used pad properly?",
+      "answer": "Wrap the used pad in toilet paper or its own wrapper (most pads have one), then put it in the trash bin in the bathroom. Never flush pads down the toilet — they can clog plumbing. Most public bathrooms have small bins in each stall for this purpose.",
+      "source": "Office on Women's Health",
+      "tags": ["disposal", "hygiene", "environment", "plumbing"]
+    },
+    {
+      "id": "C2.2-013",
+      "subcategory": "Practical",
+      "question": "Are reusable period products safe for beginners?",
+      "answer": "Reusable pads and period underwear are safe and easy for beginners. They look and feel like regular underwear but absorb blood. Menstrual cups exist too but require more practice — most girls start with them later. Reusable products are good for the environment and your budget.",
+      "source": "Planned Parenthood",
+      "tags": ["reusable", "period underwear", "eco-friendly", "beginners"]
+    },
+    {
+      "id": "C2.2-014",
+      "subcategory": "Practical",
+      "question": "What is a panty liner and when should I use one?",
+      "answer": "A panty liner is a thin, small pad. It's perfect for light spotting at the very beginning or end of your period, or when you expect your period to come but aren't sure. It's also useful for daily discharge. Liners are very discreet and comfortable.",
+      "source": "KidsHealth",
+      "tags": ["panty liner", "light flow", "spotting", "discharge"]
+    },
+    {
+      "id": "C2.2-015",
+      "subcategory": "Practical",
+      "question": "Do I need to wash my private parts differently during my period?",
+      "answer": "No, just wash gently with warm water, like usual. Avoid scented soaps, douches, or sprays — they can irritate the sensitive skin and disrupt the natural balance. Wash from front to back. Change your pad regularly. That's all you need for proper hygiene.",
+      "source": "Cleveland Clinic",
+      "tags": ["hygiene", "washing", "intimate care", "products to avoid"]
+    },
+    {
+      "id": "C2.3-001",
+      "subcategory": "Emotional",
+      "question": "Is it normal to feel scared about my first period?",
+      "answer": "Absolutely! Many girls feel scared, nervous, or unsure about their first period. It's a big change, and not knowing what to expect can be stressful. Talk to your mom, an older sister, an aunt, a friend, or a school nurse. You're not alone — every woman has been there.",
+      "source": "AAP",
+      "tags": ["emotions", "fear", "anxiety", "support"]
+    },
+    {
+      "id": "C2.3-002",
+      "subcategory": "Emotional",
+      "question": "Is it weird to feel happy about my first period?",
+      "answer": "Not at all! Many girls feel proud or excited because it's a sign of growing up. There's nothing weird about being happy. Some cultures even celebrate first periods as an important step. However you feel — excited, scared, mixed feelings — your feelings are all valid.",
+      "source": "KidsHealth",
+      "tags": ["emotions", "happiness", "celebration", "valid"]
+    },
+    {
+      "id": "C2.3-003",
+      "subcategory": "Emotional",
+      "question": "How do I tell my mom I got my period?",
+      "answer": "You can just say it directly: 'Mom, I got my period.' If it feels too awkward, write a note or text her. Most moms feel happy that their daughter trusted them with this news. They'll probably help you with supplies and answer questions. There's no perfect way — just be yourself.",
+      "source": "KidsHealth",
+      "tags": ["talking to mom", "communication", "family", "support"]
+    },
+    {
+      "id": "C2.3-004",
+      "subcategory": "Emotional",
+      "question": "What if I don't want to tell anyone?",
+      "answer": "It's okay to want privacy. But having at least one trusted adult know is important — for supplies, advice, and emergencies. You could tell just your mom, an older sister, an aunt, or a school nurse. You don't have to announce it; just tell someone you trust.",
+      "source": "AAP",
+      "tags": ["privacy", "trust", "communication", "boundaries"]
+    },
+    {
+      "id": "C2.3-005",
+      "subcategory": "Emotional",
+      "question": "Why do I feel emotional during my period?",
+      "answer": "Hormones changing during your period can affect your mood. You might feel more sensitive, sad, or irritated than usual. This is called PMS (premenstrual symptoms) and is completely normal. Resting, talking to someone, and being kind to yourself can help. The feelings usually pass.",
+      "source": "Cleveland Clinic",
+      "tags": ["mood", "emotions", "PMS", "hormones"]
+    },
+    {
+      "id": "C2.3-006",
+      "subcategory": "Emotional",
+      "question": "Is it normal to feel ashamed about my period?",
+      "answer": "Shame is a feeling some girls experience because society sometimes makes periods seem like a secret. But periods are natural and healthy — there's nothing to be ashamed of. Half the world's population menstruates. The more you talk about it openly, the more normal it feels.",
+      "source": "Planned Parenthood",
+      "tags": ["shame", "stigma", "self-acceptance", "normalization"]
+    },
+    {
+      "id": "C2.3-007",
+      "subcategory": "Emotional",
+      "question": "What if my friends haven't started their period yet?",
+      "answer": "Bodies grow at different speeds — some start early, others later. Your friends might just be a bit behind, or you might be ahead. Neither is better or worse. Your bodies are all just doing their own thing. Don't worry about comparing.",
+      "source": "AAP",
+      "tags": ["comparison", "friends", "individual timing", "self-acceptance"]
+    },
+    {
+      "id": "C2.3-008",
+      "subcategory": "Emotional",
+      "question": "Will my body change a lot during my period?",
+      "answer": "You might feel small changes: bloating in your belly, sore breasts, or being tired. These usually last 2-3 days. Your body isn't permanently changing — it just shifts a bit during your period. Drink water, eat well, and rest. After your period, you'll feel back to normal.",
+      "source": "Cleveland Clinic",
+      "tags": ["body changes", "temporary", "symptoms", "self-care"]
+    },
+    {
+      "id": "C2.3-009",
+      "subcategory": "Emotional",
+      "question": "Can I still have fun during my period?",
+      "answer": "Yes, of course! Your period shouldn't stop your life. You can play sports, see friends, go to school, swim, dance, sleep over — everything. With a pad or tampon, you're free to do what you want. Some days you might just want to rest more, and that's okay too.",
+      "source": "Office on Women's Health",
+      "tags": ["activities", "lifestyle", "fun", "normal"]
+    },
+    {
+      "id": "C2.3-010",
+      "subcategory": "Emotional",
+      "question": "Why do I feel different from my friends now that I have my period?",
+      "answer": "It can feel like a 'before and after' moment, like you've crossed a line. That feeling is normal — you're growing up. But you're still the same you. Your friends will go through it too. Soon it becomes a normal part of life that you don't think about much.",
+      "source": "KidsHealth",
+      "tags": ["growing up", "identity", "change", "friends"]
+    },
+    {
+      "id": "C2.4-001",
+      "subcategory": "When to worry",
+      "question": "When should I talk to a doctor about my first period?",
+      "answer": "Talk to a doctor if: you haven't had your period by age 16, your period lasts more than 7 days, you bleed so much you soak a pad in less than 1 hour, you have very strong pain that doesn't get better with rest, or your periods stop after starting (without pregnancy).",
+      "source": "ACOG",
+      "tags": ["warning signs", "doctor", "consultation", "alarm"]
+    },
+    {
+      "id": "C2.4-002",
+      "subcategory": "When to worry",
+      "question": "How heavy is too heavy for a first period?",
+      "answer": "If you need to change your pad every hour for several hours in a row, or if you pass clots bigger than a small coin, that's heavier than normal. It can make you feel tired or dizzy. Tell a parent and see a doctor — heavy bleeding has solutions.",
+      "source": "Cleveland Clinic",
+      "tags": ["heavy bleeding", "menorrhagia", "warning", "doctor"]
+    },
+    {
+      "id": "C2.4-003",
+      "subcategory": "When to worry",
+      "question": "Why am I in so much pain during my period?",
+      "answer": "Mild to moderate cramps are normal. But pain so strong that you can't go to school, you cry, or basic pain relievers don't help is NOT normal. It could be a condition like endometriosis. Tell a parent and see a doctor — strong period pain deserves real treatment.",
+      "source": "WHO",
+      "tags": ["severe pain", "endometriosis", "warning", "doctor"]
+    },
+    {
+      "id": "C2.4-004",
+      "subcategory": "When to worry",
+      "question": "What if my period suddenly stops after I started having them?",
+      "answer": "If you've had your period regularly and it stops for 3 months or more without being pregnant, talk to a doctor. Causes can include stress, excessive exercise, weight changes, or hormonal issues. Most are treatable, but it's important to find out why.",
+      "source": "Mayo Clinic",
+      "tags": ["amenorrhea", "missed periods", "stopped", "doctor"]
+    },
+    {
+      "id": "C2.4-005",
+      "subcategory": "When to worry",
+      "question": "Is it dangerous if my first period is very late?",
+      "answer": "Not usually — body timing varies. But if you're 16 or older and haven't had your first period (and you've developed breasts and pubic hair), see a doctor. If you have no signs of puberty by age 14, also worth checking. Doctors can determine if everything is okay or if treatment is needed.",
+      "source": "AAP",
+      "tags": ["late menarche", "delayed puberty", "concerns", "doctor"]
+    }
+  ]
+}
