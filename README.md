@@ -1,4 +1,4 @@
-# 🌸 ARIELA AI
+#  ARIELA AI
 
 > A Retrieval-Augmented Generation (RAG) service for evidence-based women's health Q&A.
 
